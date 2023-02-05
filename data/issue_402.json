@@ -1,0 +1,2059 @@
+{
+    "header": {
+        "saveFileSize": 380868
+    },
+    "trace": [
+        {
+            "randomState": 1,
+            "tickCount": 16,
+            "type": "paint"
+        },
+        {
+            "randomState": 2,
+            "tickCount": 32,
+            "type": "paint"
+        },
+        {
+            "randomState": 3,
+            "tickCount": 48,
+            "type": "paint"
+        },
+        {
+            "randomState": 4,
+            "tickCount": 64,
+            "type": "paint"
+        },
+        {
+            "randomState": 5,
+            "tickCount": 80,
+            "type": "paint"
+        },
+        {
+            "randomState": 6,
+            "tickCount": 96,
+            "type": "paint"
+        },
+        {
+            "randomState": 7,
+            "tickCount": 112,
+            "type": "paint"
+        },
+        {
+            "randomState": 8,
+            "tickCount": 128,
+            "type": "paint"
+        },
+        {
+            "randomState": 9,
+            "tickCount": 144,
+            "type": "paint"
+        },
+        {
+            "randomState": 10,
+            "tickCount": 160,
+            "type": "paint"
+        },
+        {
+            "randomState": 11,
+            "tickCount": 176,
+            "type": "paint"
+        },
+        {
+            "randomState": 12,
+            "tickCount": 192,
+            "type": "paint"
+        },
+        {
+            "randomState": 13,
+            "tickCount": 208,
+            "type": "paint"
+        },
+        {
+            "randomState": 14,
+            "tickCount": 224,
+            "type": "paint"
+        },
+        {
+            "randomState": 15,
+            "tickCount": 240,
+            "type": "paint"
+        },
+        {
+            "randomState": 16,
+            "tickCount": 256,
+            "type": "paint"
+        },
+        {
+            "randomState": 17,
+            "tickCount": 272,
+            "type": "paint"
+        },
+        {
+            "randomState": 18,
+            "tickCount": 288,
+            "type": "paint"
+        },
+        {
+            "randomState": 19,
+            "tickCount": 304,
+            "type": "paint"
+        },
+        {
+            "randomState": 20,
+            "tickCount": 320,
+            "type": "paint"
+        },
+        {
+            "randomState": 21,
+            "tickCount": 336,
+            "type": "paint"
+        },
+        {
+            "randomState": 22,
+            "tickCount": 352,
+            "type": "paint"
+        },
+        {
+            "randomState": 23,
+            "tickCount": 368,
+            "type": "paint"
+        },
+        {
+            "randomState": 24,
+            "tickCount": 384,
+            "type": "paint"
+        },
+        {
+            "randomState": 25,
+            "tickCount": 400,
+            "type": "paint"
+        },
+        {
+            "randomState": 26,
+            "tickCount": 416,
+            "type": "paint"
+        },
+        {
+            "randomState": 27,
+            "tickCount": 432,
+            "type": "paint"
+        },
+        {
+            "randomState": 28,
+            "tickCount": 448,
+            "type": "paint"
+        },
+        {
+            "randomState": 29,
+            "tickCount": 464,
+            "type": "paint"
+        },
+        {
+            "randomState": 30,
+            "tickCount": 480,
+            "type": "paint"
+        },
+        {
+            "randomState": 31,
+            "tickCount": 496,
+            "type": "paint"
+        },
+        {
+            "randomState": 32,
+            "tickCount": 512,
+            "type": "paint"
+        },
+        {
+            "randomState": 33,
+            "tickCount": 528,
+            "type": "paint"
+        },
+        {
+            "randomState": 34,
+            "tickCount": 544,
+            "type": "paint"
+        },
+        {
+            "randomState": 35,
+            "tickCount": 560,
+            "type": "paint"
+        },
+        {
+            "randomState": 36,
+            "tickCount": 576,
+            "type": "paint"
+        },
+        {
+            "randomState": 37,
+            "tickCount": 592,
+            "type": "paint"
+        },
+        {
+            "randomState": 38,
+            "tickCount": 608,
+            "type": "paint"
+        },
+        {
+            "randomState": 39,
+            "tickCount": 624,
+            "type": "paint"
+        },
+        {
+            "randomState": 40,
+            "tickCount": 640,
+            "type": "paint"
+        },
+        {
+            "randomState": 74,
+            "tickCount": 656,
+            "type": "paint"
+        },
+        {
+            "randomState": 75,
+            "tickCount": 672,
+            "type": "paint"
+        },
+        {
+            "randomState": 76,
+            "tickCount": 688,
+            "type": "paint"
+        },
+        {
+            "randomState": 77,
+            "tickCount": 704,
+            "type": "paint"
+        },
+        {
+            "randomState": 78,
+            "tickCount": 720,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": false,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 79,
+            "tickCount": 736,
+            "type": "paint"
+        },
+        {
+            "randomState": 80,
+            "tickCount": 752,
+            "type": "paint"
+        },
+        {
+            "randomState": 85,
+            "tickCount": 768,
+            "type": "paint"
+        },
+        {
+            "randomState": 86,
+            "tickCount": 784,
+            "type": "paint"
+        },
+        {
+            "randomState": 87,
+            "tickCount": 800,
+            "type": "paint"
+        },
+        {
+            "randomState": 88,
+            "tickCount": 816,
+            "type": "paint"
+        },
+        {
+            "randomState": 89,
+            "tickCount": 832,
+            "type": "paint"
+        },
+        {
+            "randomState": 90,
+            "tickCount": 848,
+            "type": "paint"
+        },
+        {
+            "randomState": 91,
+            "tickCount": 864,
+            "type": "paint"
+        },
+        {
+            "randomState": 92,
+            "tickCount": 880,
+            "type": "paint"
+        },
+        {
+            "randomState": 93,
+            "tickCount": 896,
+            "type": "paint"
+        },
+        {
+            "randomState": 94,
+            "tickCount": 912,
+            "type": "paint"
+        },
+        {
+            "randomState": 95,
+            "tickCount": 928,
+            "type": "paint"
+        },
+        {
+            "randomState": 96,
+            "tickCount": 944,
+            "type": "paint"
+        },
+        {
+            "randomState": 97,
+            "tickCount": 960,
+            "type": "paint"
+        },
+        {
+            "randomState": 98,
+            "tickCount": 976,
+            "type": "paint"
+        },
+        {
+            "randomState": 99,
+            "tickCount": 992,
+            "type": "paint"
+        },
+        {
+            "randomState": 100,
+            "tickCount": 1008,
+            "type": "paint"
+        },
+        {
+            "randomState": 101,
+            "tickCount": 1024,
+            "type": "paint"
+        },
+        {
+            "randomState": 102,
+            "tickCount": 1040,
+            "type": "paint"
+        },
+        {
+            "randomState": 103,
+            "tickCount": 1056,
+            "type": "paint"
+        },
+        {
+            "randomState": 104,
+            "tickCount": 1072,
+            "type": "paint"
+        },
+        {
+            "randomState": 105,
+            "tickCount": 1088,
+            "type": "paint"
+        },
+        {
+            "randomState": 106,
+            "tickCount": 1104,
+            "type": "paint"
+        },
+        {
+            "randomState": 107,
+            "tickCount": 1120,
+            "type": "paint"
+        },
+        {
+            "randomState": 108,
+            "tickCount": 1136,
+            "type": "paint"
+        },
+        {
+            "randomState": 109,
+            "tickCount": 1152,
+            "type": "paint"
+        },
+        {
+            "randomState": 110,
+            "tickCount": 1168,
+            "type": "paint"
+        },
+        {
+            "randomState": 111,
+            "tickCount": 1184,
+            "type": "paint"
+        },
+        {
+            "randomState": 112,
+            "tickCount": 1200,
+            "type": "paint"
+        },
+        {
+            "randomState": 113,
+            "tickCount": 1216,
+            "type": "paint"
+        },
+        {
+            "randomState": 114,
+            "tickCount": 1232,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 115,
+            "tickCount": 1248,
+            "type": "paint"
+        },
+        {
+            "randomState": 116,
+            "tickCount": 1264,
+            "type": "paint"
+        },
+        {
+            "randomState": 138,
+            "tickCount": 1280,
+            "type": "paint"
+        },
+        {
+            "randomState": 139,
+            "tickCount": 1296,
+            "type": "paint"
+        },
+        {
+            "randomState": 140,
+            "tickCount": 1312,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 141,
+            "tickCount": 1328,
+            "type": "paint"
+        },
+        {
+            "randomState": 145,
+            "tickCount": 1344,
+            "type": "paint"
+        },
+        {
+            "randomState": 146,
+            "tickCount": 1360,
+            "type": "paint"
+        },
+        {
+            "randomState": 150,
+            "tickCount": 1376,
+            "type": "paint"
+        },
+        {
+            "randomState": 151,
+            "tickCount": 1392,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 152,
+            "tickCount": 1408,
+            "type": "paint"
+        },
+        {
+            "randomState": 153,
+            "tickCount": 1424,
+            "type": "paint"
+        },
+        {
+            "randomState": 154,
+            "tickCount": 1440,
+            "type": "paint"
+        },
+        {
+            "randomState": 155,
+            "tickCount": 1456,
+            "type": "paint"
+        },
+        {
+            "randomState": 156,
+            "tickCount": 1472,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 157,
+            "tickCount": 1488,
+            "type": "paint"
+        },
+        {
+            "randomState": 158,
+            "tickCount": 1504,
+            "type": "paint"
+        },
+        {
+            "randomState": 161,
+            "tickCount": 1520,
+            "type": "paint"
+        },
+        {
+            "randomState": 162,
+            "tickCount": 1536,
+            "type": "paint"
+        },
+        {
+            "randomState": 163,
+            "tickCount": 1552,
+            "type": "paint"
+        },
+        {
+            "randomState": 164,
+            "tickCount": 1568,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 165,
+            "tickCount": 1584,
+            "type": "paint"
+        },
+        {
+            "randomState": 166,
+            "tickCount": 1600,
+            "type": "paint"
+        },
+        {
+            "randomState": 167,
+            "tickCount": 1616,
+            "type": "paint"
+        },
+        {
+            "randomState": 168,
+            "tickCount": 1632,
+            "type": "paint"
+        },
+        {
+            "randomState": 169,
+            "tickCount": 1648,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 170,
+            "tickCount": 1664,
+            "type": "paint"
+        },
+        {
+            "randomState": 171,
+            "tickCount": 1680,
+            "type": "paint"
+        },
+        {
+            "randomState": 172,
+            "tickCount": 1696,
+            "type": "paint"
+        },
+        {
+            "randomState": 173,
+            "tickCount": 1712,
+            "type": "paint"
+        },
+        {
+            "randomState": 174,
+            "tickCount": 1728,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 175,
+            "tickCount": 1744,
+            "type": "paint"
+        },
+        {
+            "randomState": 176,
+            "tickCount": 1760,
+            "type": "paint"
+        },
+        {
+            "randomState": 177,
+            "tickCount": 1776,
+            "type": "paint"
+        },
+        {
+            "randomState": 178,
+            "tickCount": 1792,
+            "type": "paint"
+        },
+        {
+            "randomState": 179,
+            "tickCount": 1808,
+            "type": "paint"
+        },
+        {
+            "randomState": 180,
+            "tickCount": 1824,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 181,
+            "tickCount": 1840,
+            "type": "paint"
+        },
+        {
+            "randomState": 182,
+            "tickCount": 1856,
+            "type": "paint"
+        },
+        {
+            "randomState": 183,
+            "tickCount": 1872,
+            "type": "paint"
+        },
+        {
+            "randomState": 184,
+            "tickCount": 1888,
+            "type": "paint"
+        },
+        {
+            "randomState": 194,
+            "tickCount": 1904,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 195,
+            "tickCount": 1920,
+            "type": "paint"
+        },
+        {
+            "randomState": 196,
+            "tickCount": 1936,
+            "type": "paint"
+        },
+        {
+            "randomState": 197,
+            "tickCount": 1952,
+            "type": "paint"
+        },
+        {
+            "randomState": 198,
+            "tickCount": 1968,
+            "type": "paint"
+        },
+        {
+            "randomState": 199,
+            "tickCount": 1984,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 200,
+            "tickCount": 2000,
+            "type": "paint"
+        },
+        {
+            "randomState": 250,
+            "tickCount": 2016,
+            "type": "paint"
+        },
+        {
+            "randomState": 251,
+            "tickCount": 2032,
+            "type": "paint"
+        },
+        {
+            "randomState": 252,
+            "tickCount": 2048,
+            "type": "paint"
+        },
+        {
+            "randomState": 253,
+            "tickCount": 2064,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 254,
+            "tickCount": 2080,
+            "type": "paint"
+        },
+        {
+            "randomState": 255,
+            "tickCount": 2096,
+            "type": "paint"
+        },
+        {
+            "randomState": 256,
+            "tickCount": 2112,
+            "type": "paint"
+        },
+        {
+            "randomState": 257,
+            "tickCount": 2128,
+            "type": "paint"
+        },
+        {
+            "randomState": 258,
+            "tickCount": 2144,
+            "type": "paint"
+        },
+        {
+            "randomState": 259,
+            "tickCount": 2160,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 260,
+            "tickCount": 2176,
+            "type": "paint"
+        },
+        {
+            "randomState": 261,
+            "tickCount": 2192,
+            "type": "paint"
+        },
+        {
+            "randomState": 262,
+            "tickCount": 2208,
+            "type": "paint"
+        },
+        {
+            "randomState": 263,
+            "tickCount": 2224,
+            "type": "paint"
+        },
+        {
+            "randomState": 264,
+            "tickCount": 2240,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 265,
+            "tickCount": 2256,
+            "type": "paint"
+        },
+        {
+            "randomState": 267,
+            "tickCount": 2272,
+            "type": "paint"
+        },
+        {
+            "randomState": 268,
+            "tickCount": 2288,
+            "type": "paint"
+        },
+        {
+            "randomState": 269,
+            "tickCount": 2304,
+            "type": "paint"
+        },
+        {
+            "randomState": 270,
+            "tickCount": 2320,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 271,
+            "tickCount": 2336,
+            "type": "paint"
+        },
+        {
+            "randomState": 272,
+            "tickCount": 2352,
+            "type": "paint"
+        },
+        {
+            "randomState": 273,
+            "tickCount": 2368,
+            "type": "paint"
+        },
+        {
+            "randomState": 274,
+            "tickCount": 2384,
+            "type": "paint"
+        },
+        {
+            "randomState": 275,
+            "tickCount": 2400,
+            "type": "paint"
+        },
+        {
+            "randomState": 276,
+            "tickCount": 2416,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 277,
+            "tickCount": 2432,
+            "type": "paint"
+        },
+        {
+            "randomState": 279,
+            "tickCount": 2448,
+            "type": "paint"
+        },
+        {
+            "randomState": 280,
+            "tickCount": 2464,
+            "type": "paint"
+        },
+        {
+            "randomState": 281,
+            "tickCount": 2480,
+            "type": "paint"
+        },
+        {
+            "randomState": 282,
+            "tickCount": 2496,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 283,
+            "tickCount": 2512,
+            "type": "paint"
+        },
+        {
+            "randomState": 291,
+            "tickCount": 2528,
+            "type": "paint"
+        },
+        {
+            "randomState": 292,
+            "tickCount": 2544,
+            "type": "paint"
+        },
+        {
+            "randomState": 293,
+            "tickCount": 2560,
+            "type": "paint"
+        },
+        {
+            "randomState": 294,
+            "tickCount": 2576,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 295,
+            "tickCount": 2592,
+            "type": "paint"
+        },
+        {
+            "randomState": 296,
+            "tickCount": 2608,
+            "type": "paint"
+        },
+        {
+            "randomState": 297,
+            "tickCount": 2624,
+            "type": "paint"
+        },
+        {
+            "randomState": 298,
+            "tickCount": 2640,
+            "type": "paint"
+        },
+        {
+            "randomState": 332,
+            "tickCount": 2656,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 333,
+            "tickCount": 2672,
+            "type": "paint"
+        },
+        {
+            "randomState": 334,
+            "tickCount": 2688,
+            "type": "paint"
+        },
+        {
+            "randomState": 335,
+            "tickCount": 2704,
+            "type": "paint"
+        },
+        {
+            "randomState": 336,
+            "tickCount": 2720,
+            "type": "paint"
+        },
+        {
+            "randomState": 337,
+            "tickCount": 2736,
+            "type": "paint"
+        },
+        {
+            "randomState": 341,
+            "tickCount": 2752,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 346,
+            "tickCount": 2768,
+            "type": "paint"
+        },
+        {
+            "randomState": 347,
+            "tickCount": 2784,
+            "type": "paint"
+        },
+        {
+            "randomState": 348,
+            "tickCount": 2800,
+            "type": "paint"
+        },
+        {
+            "randomState": 349,
+            "tickCount": 2816,
+            "type": "paint"
+        },
+        {
+            "randomState": 350,
+            "tickCount": 2832,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 351,
+            "tickCount": 2848,
+            "type": "paint"
+        },
+        {
+            "randomState": 352,
+            "tickCount": 2864,
+            "type": "paint"
+        },
+        {
+            "randomState": 353,
+            "tickCount": 2880,
+            "type": "paint"
+        },
+        {
+            "randomState": 354,
+            "tickCount": 2896,
+            "type": "paint"
+        },
+        {
+            "randomState": 355,
+            "tickCount": 2912,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 356,
+            "tickCount": 2928,
+            "type": "paint"
+        },
+        {
+            "randomState": 357,
+            "tickCount": 2944,
+            "type": "paint"
+        },
+        {
+            "randomState": 358,
+            "tickCount": 2960,
+            "type": "paint"
+        },
+        {
+            "randomState": 359,
+            "tickCount": 2976,
+            "type": "paint"
+        },
+        {
+            "randomState": 360,
+            "tickCount": 2992,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 361,
+            "tickCount": 3008,
+            "type": "paint"
+        },
+        {
+            "randomState": 362,
+            "tickCount": 3024,
+            "type": "paint"
+        },
+        {
+            "randomState": 363,
+            "tickCount": 3040,
+            "type": "paint"
+        },
+        {
+            "randomState": 364,
+            "tickCount": 3056,
+            "type": "paint"
+        },
+        {
+            "randomState": 365,
+            "tickCount": 3072,
+            "type": "paint"
+        },
+        {
+            "randomState": 366,
+            "tickCount": 3088,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 367,
+            "tickCount": 3104,
+            "type": "paint"
+        },
+        {
+            "randomState": 368,
+            "tickCount": 3120,
+            "type": "paint"
+        },
+        {
+            "randomState": 369,
+            "tickCount": 3136,
+            "type": "paint"
+        },
+        {
+            "randomState": 372,
+            "tickCount": 3152,
+            "type": "paint"
+        },
+        {
+            "randomState": 373,
+            "tickCount": 3168,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 377,
+            "tickCount": 3184,
+            "type": "paint"
+        },
+        {
+            "randomState": 378,
+            "tickCount": 3200,
+            "type": "paint"
+        },
+        {
+            "randomState": 379,
+            "tickCount": 3216,
+            "type": "paint"
+        },
+        {
+            "randomState": 380,
+            "tickCount": 3232,
+            "type": "paint"
+        },
+        {
+            "randomState": 381,
+            "tickCount": 3248,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 382,
+            "tickCount": 3264,
+            "type": "paint"
+        },
+        {
+            "randomState": 411,
+            "tickCount": 3280,
+            "type": "paint"
+        },
+        {
+            "randomState": 412,
+            "tickCount": 3296,
+            "type": "paint"
+        },
+        {
+            "randomState": 413,
+            "tickCount": 3312,
+            "type": "paint"
+        },
+        {
+            "randomState": 414,
+            "tickCount": 3328,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 415,
+            "tickCount": 3344,
+            "type": "paint"
+        },
+        {
+            "randomState": 419,
+            "tickCount": 3360,
+            "type": "paint"
+        },
+        {
+            "randomState": 420,
+            "tickCount": 3376,
+            "type": "paint"
+        },
+        {
+            "randomState": 421,
+            "tickCount": 3392,
+            "type": "paint"
+        },
+        {
+            "randomState": 422,
+            "tickCount": 3408,
+            "type": "paint"
+        },
+        {
+            "randomState": 423,
+            "tickCount": 3424,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 424,
+            "tickCount": 3440,
+            "type": "paint"
+        },
+        {
+            "randomState": 425,
+            "tickCount": 3456,
+            "type": "paint"
+        },
+        {
+            "randomState": 426,
+            "tickCount": 3472,
+            "type": "paint"
+        },
+        {
+            "randomState": 427,
+            "tickCount": 3488,
+            "type": "paint"
+        },
+        {
+            "randomState": 428,
+            "tickCount": 3504,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 432,
+            "tickCount": 3520,
+            "type": "paint"
+        },
+        {
+            "randomState": 433,
+            "tickCount": 3536,
+            "type": "paint"
+        },
+        {
+            "randomState": 434,
+            "tickCount": 3552,
+            "type": "paint"
+        },
+        {
+            "randomState": 435,
+            "tickCount": 3568,
+            "type": "paint"
+        },
+        {
+            "randomState": 436,
+            "tickCount": 3584,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 437,
+            "tickCount": 3600,
+            "type": "paint"
+        },
+        {
+            "randomState": 438,
+            "tickCount": 3616,
+            "type": "paint"
+        },
+        {
+            "randomState": 439,
+            "tickCount": 3632,
+            "type": "paint"
+        },
+        {
+            "randomState": 440,
+            "tickCount": 3648,
+            "type": "paint"
+        },
+        {
+            "randomState": 444,
+            "tickCount": 3664,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 445,
+            "tickCount": 3680,
+            "type": "paint"
+        },
+        {
+            "randomState": 446,
+            "tickCount": 3696,
+            "type": "paint"
+        },
+        {
+            "randomState": 447,
+            "tickCount": 3712,
+            "type": "paint"
+        },
+        {
+            "randomState": 448,
+            "tickCount": 3728,
+            "type": "paint"
+        },
+        {
+            "randomState": 449,
+            "tickCount": 3744,
+            "type": "paint"
+        },
+        {
+            "randomState": 450,
+            "tickCount": 3760,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 453,
+            "tickCount": 3776,
+            "type": "paint"
+        },
+        {
+            "randomState": 454,
+            "tickCount": 3792,
+            "type": "paint"
+        },
+        {
+            "randomState": 455,
+            "tickCount": 3808,
+            "type": "paint"
+        },
+        {
+            "randomState": 456,
+            "tickCount": 3824,
+            "type": "paint"
+        },
+        {
+            "randomState": 457,
+            "tickCount": 3840,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 458,
+            "tickCount": 3856,
+            "type": "paint"
+        },
+        {
+            "randomState": 459,
+            "tickCount": 3872,
+            "type": "paint"
+        },
+        {
+            "randomState": 460,
+            "tickCount": 3888,
+            "type": "paint"
+        },
+        {
+            "randomState": 478,
+            "tickCount": 3904,
+            "type": "paint"
+        },
+        {
+            "randomState": 479,
+            "tickCount": 3920,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 480,
+            "tickCount": 3936,
+            "type": "paint"
+        },
+        {
+            "randomState": 481,
+            "tickCount": 3952,
+            "type": "paint"
+        },
+        {
+            "randomState": 482,
+            "tickCount": 3968,
+            "type": "paint"
+        },
+        {
+            "randomState": 483,
+            "tickCount": 3984,
+            "type": "paint"
+        },
+        {
+            "randomState": 484,
+            "tickCount": 4000,
+            "type": "paint"
+        },
+        {
+            "randomState": 505,
+            "tickCount": 4016,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 506,
+            "tickCount": 4032,
+            "type": "paint"
+        },
+        {
+            "randomState": 507,
+            "tickCount": 4048,
+            "type": "paint"
+        },
+        {
+            "randomState": 508,
+            "tickCount": 4064,
+            "type": "paint"
+        },
+        {
+            "randomState": 509,
+            "tickCount": 4080,
+            "type": "paint"
+        },
+        {
+            "randomState": 510,
+            "tickCount": 4096,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 511,
+            "tickCount": 4112,
+            "type": "paint"
+        },
+        {
+            "randomState": 512,
+            "tickCount": 4128,
+            "type": "paint"
+        },
+        {
+            "randomState": 513,
+            "tickCount": 4144,
+            "type": "paint"
+        },
+        {
+            "randomState": 514,
+            "tickCount": 4160,
+            "type": "paint"
+        },
+        {
+            "randomState": 515,
+            "tickCount": 4176,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 516,
+            "tickCount": 4192,
+            "type": "paint"
+        },
+        {
+            "randomState": 517,
+            "tickCount": 4208,
+            "type": "paint"
+        },
+        {
+            "randomState": 518,
+            "tickCount": 4224,
+            "type": "paint"
+        },
+        {
+            "randomState": 519,
+            "tickCount": 4240,
+            "type": "paint"
+        },
+        {
+            "randomState": 520,
+            "tickCount": 4256,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 524,
+            "tickCount": 4272,
+            "type": "paint"
+        },
+        {
+            "randomState": 525,
+            "tickCount": 4288,
+            "type": "paint"
+        },
+        {
+            "randomState": 526,
+            "tickCount": 4304,
+            "type": "paint"
+        },
+        {
+            "randomState": 527,
+            "tickCount": 4320,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": false,
+            "key": "A",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "0",
+            "type": "keyRelease"
+        },
+        {
+            "randomState": 528,
+            "tickCount": 4336,
+            "type": "paint"
+        },
+        {
+            "randomState": 529,
+            "tickCount": 4352,
+            "type": "paint"
+        },
+        {
+            "randomState": 530,
+            "tickCount": 4368,
+            "type": "paint"
+        },
+        {
+            "randomState": 531,
+            "tickCount": 4384,
+            "type": "paint"
+        },
+        {
+            "randomState": 532,
+            "tickCount": 4400,
+            "type": "paint"
+        },
+        {
+            "randomState": 533,
+            "tickCount": 4416,
+            "type": "paint"
+        },
+        {
+            "randomState": 534,
+            "tickCount": 4432,
+            "type": "paint"
+        },
+        {
+            "randomState": 536,
+            "tickCount": 4448,
+            "type": "paint"
+        },
+        {
+            "randomState": 537,
+            "tickCount": 4464,
+            "type": "paint"
+        },
+        {
+            "randomState": 538,
+            "tickCount": 4480,
+            "type": "paint"
+        },
+        {
+            "randomState": 539,
+            "tickCount": 4496,
+            "type": "paint"
+        },
+        {
+            "randomState": 540,
+            "tickCount": 4512,
+            "type": "paint"
+        },
+        {
+            "randomState": 555,
+            "tickCount": 4528,
+            "type": "paint"
+        },
+        {
+            "randomState": 556,
+            "tickCount": 4544,
+            "type": "paint"
+        },
+        {
+            "randomState": 557,
+            "tickCount": 4560,
+            "type": "paint"
+        },
+        {
+            "randomState": 558,
+            "tickCount": 4576,
+            "type": "paint"
+        },
+        {
+            "randomState": 559,
+            "tickCount": 4592,
+            "type": "paint"
+        },
+        {
+            "randomState": 560,
+            "tickCount": 4608,
+            "type": "paint"
+        },
+        {
+            "randomState": 561,
+            "tickCount": 4624,
+            "type": "paint"
+        },
+        {
+            "randomState": 568,
+            "tickCount": 4640,
+            "type": "paint"
+        },
+        {
+            "randomState": 593,
+            "tickCount": 4656,
+            "type": "paint"
+        },
+        {
+            "randomState": 594,
+            "tickCount": 4672,
+            "type": "paint"
+        },
+        {
+            "randomState": 595,
+            "tickCount": 4688,
+            "type": "paint"
+        },
+        {
+            "randomState": 596,
+            "tickCount": 4704,
+            "type": "paint"
+        },
+        {
+            "randomState": 597,
+            "tickCount": 4720,
+            "type": "paint"
+        },
+        {
+            "randomState": 598,
+            "tickCount": 4736,
+            "type": "paint"
+        },
+        {
+            "randomState": 602,
+            "tickCount": 4752,
+            "type": "paint"
+        },
+        {
+            "randomState": 606,
+            "tickCount": 4768,
+            "type": "paint"
+        },
+        {
+            "randomState": 607,
+            "tickCount": 4784,
+            "type": "paint"
+        },
+        {
+            "randomState": 608,
+            "tickCount": 4800,
+            "type": "paint"
+        },
+        {
+            "randomState": 609,
+            "tickCount": 4816,
+            "type": "paint"
+        },
+        {
+            "randomState": 610,
+            "tickCount": 4832,
+            "type": "paint"
+        },
+        {
+            "randomState": 611,
+            "tickCount": 4848,
+            "type": "paint"
+        },
+        {
+            "randomState": 612,
+            "tickCount": 4864,
+            "type": "paint"
+        },
+        {
+            "randomState": 613,
+            "tickCount": 4880,
+            "type": "paint"
+        },
+        {
+            "randomState": 614,
+            "tickCount": 4896,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": false,
+            "key": "SHIFT",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "shift",
+            "type": "keyPress"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "SHIFT",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "shift",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 615,
+            "tickCount": 4912,
+            "type": "paint"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": false,
+            "key": "CONTROL",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "shift|ctrl",
+            "type": "keyPress"
+        },
+        {
+            "id": 4294967295,
+            "isAutoRepeat": true,
+            "key": "CONTROL",
+            "keyType": "keyboard",
+            "keyValue": 0.0,
+            "mods": "shift|ctrl",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 616,
+            "tickCount": 4928,
+            "type": "paint"
+        },
+        {
+            "randomState": 617,
+            "tickCount": 4944,
+            "type": "paint"
+        },
+        {
+            "randomState": 618,
+            "tickCount": 4960,
+            "type": "paint"
+        },
+        {
+            "randomState": 619,
+            "tickCount": 4976,
+            "type": "paint"
+        },
+        {
+            "randomState": 620,
+            "tickCount": 4992,
+            "type": "paint"
+        },
+        {
+            "randomState": 621,
+            "tickCount": 5008,
+            "type": "paint"
+        },
+        {
+            "randomState": 625,
+            "tickCount": 5024,
+            "type": "paint"
+        },
+        {
+            "randomState": 626,
+            "tickCount": 5040,
+            "type": "paint"
+        },
+        {
+            "randomState": 627,
+            "tickCount": 5056,
+            "type": "paint"
+        },
+        {
+            "randomState": 629,
+            "tickCount": 5072,
+            "type": "paint"
+        },
+        {
+            "randomState": 630,
+            "tickCount": 5088,
+            "type": "paint"
+        },
+        {
+            "randomState": 631,
+            "tickCount": 5104,
+            "type": "paint"
+        },
+        {
+            "randomState": 632,
+            "tickCount": 5120,
+            "type": "paint"
+        },
+        {
+            "randomState": 633,
+            "tickCount": 5136,
+            "type": "paint"
+        },
+        {
+            "randomState": 640,
+            "tickCount": 5152,
+            "type": "paint"
+        },
+        {
+            "randomState": 641,
+            "tickCount": 5168,
+            "type": "paint"
+        },
+        {
+            "randomState": 642,
+            "tickCount": 5184,
+            "type": "paint"
+        },
+        {
+            "randomState": 643,
+            "tickCount": 5200,
+            "type": "paint"
+        },
+        {
+            "randomState": 644,
+            "tickCount": 5216,
+            "type": "paint"
+        },
+        {
+            "randomState": 645,
+            "tickCount": 5232,
+            "type": "paint"
+        },
+        {
+            "randomState": 646,
+            "tickCount": 5248,
+            "type": "paint"
+        },
+        {
+            "randomState": 647,
+            "tickCount": 5264,
+            "type": "paint"
+        },
+        {
+            "randomState": 675,
+            "tickCount": 5280,
+            "type": "paint"
+        },
+        {
+            "randomState": 676,
+            "tickCount": 5296,
+            "type": "paint"
+        },
+        {
+            "randomState": 677,
+            "tickCount": 5312,
+            "type": "paint"
+        },
+        {
+            "randomState": 678,
+            "tickCount": 5328,
+            "type": "paint"
+        }
+    ]
+}
