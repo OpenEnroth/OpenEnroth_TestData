@@ -1,5 +1,12 @@
 {
     "header": {
+        "config": [
+            {
+                "key": "all_magic",
+                "section": "debug",
+                "value": "true"
+            }
+        ],
         "saveFileSize": 409920
     },
     "trace": [

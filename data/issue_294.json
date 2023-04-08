@@ -1,6 +1,18 @@
 {
     "header": {
-        "saveFileSize": 394792
+        "saveFileSize": 394792,
+        "config": [
+            {
+                "key": "all_magic",
+                "section": "debug",
+                "value": "true"
+            },
+            {
+                "key": "no_damage",
+                "section": "debug",
+                "value": "true"
+            }
+        ]
     },
     "trace": [
         {
