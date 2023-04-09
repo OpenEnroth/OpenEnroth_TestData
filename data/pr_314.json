@@ -1,5 +1,6 @@
 {
     "header": {
+        "config": [],
         "saveFileSize": 397144
     },
     "trace": [
@@ -144,11 +145,8 @@
             "type": "paint"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": false,
             "key": "ESCAPE",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "0",
             "type": "keyPress"
         },
@@ -168,11 +166,8 @@
             "type": "paint"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": false,
             "key": "ESCAPE",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "0",
             "type": "keyRelease"
         },
@@ -35757,11 +35752,8 @@
             "type": "paint"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": false,
             "key": "1",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "0",
             "type": "keyPress"
         },
@@ -35781,11 +35773,8 @@
             "type": "paint"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": false,
             "key": "1",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "0",
             "type": "keyRelease"
         },
@@ -36525,11 +36514,8 @@
             "type": "paint"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": false,
             "key": "2",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "0",
             "type": "keyPress"
         },
@@ -36549,11 +36535,8 @@
             "type": "paint"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": false,
             "key": "2",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "0",
             "type": "keyRelease"
         },
@@ -37348,11 +37331,8 @@
             "type": "mouseButtonPress"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": false,
             "key": "3",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "0",
             "type": "keyPress"
         },
@@ -37397,11 +37377,8 @@
             "type": "mouseMove"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": false,
             "key": "3",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "0",
             "type": "keyRelease"
         },
@@ -43561,20 +43538,14 @@
             "type": "paint"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": false,
             "key": "SHIFT",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "shift",
             "type": "keyPress"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": true,
             "key": "SHIFT",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "shift",
             "type": "keyPress"
         },
@@ -43729,11 +43700,8 @@
             "type": "paint"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": false,
             "key": "R",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "shift",
             "type": "keyPress"
         },
@@ -43773,11 +43741,8 @@
             "type": "paint"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": false,
             "key": "R",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "shift",
             "type": "keyRelease"
         },
@@ -43792,11 +43757,8 @@
             "type": "paint"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": false,
             "key": "SHIFT",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "0",
             "type": "keyRelease"
         },
@@ -44171,11 +44133,8 @@
             "type": "paint"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": false,
             "key": "ESCAPE",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "0",
             "type": "keyPress"
         },
@@ -44205,11 +44164,8 @@
             "type": "paint"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": false,
             "key": "ESCAPE",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "0",
             "type": "keyRelease"
         },
@@ -44509,20 +44465,14 @@
             "type": "paint"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": false,
             "key": "SHIFT",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "shift",
             "type": "keyPress"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": true,
             "key": "SHIFT",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "shift",
             "type": "keyPress"
         },
@@ -44532,20 +44482,14 @@
             "type": "paint"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": false,
             "key": "CONTROL",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "shift|ctrl",
             "type": "keyPress"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": true,
             "key": "CONTROL",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "shift|ctrl",
             "type": "keyPress"
         },

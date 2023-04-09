@@ -3271,11 +3271,8 @@
             "type": "paint"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": false,
             "key": "CONTROL",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "ctrl|num",
             "type": "keyPress"
         },
@@ -3320,11 +3317,8 @@
             "type": "paint"
         },
         {
-            "id": 4294967295,
             "isAutoRepeat": false,
             "key": "SHIFT",
-            "keyType": "keyboard",
-            "keyValue": 0.0,
             "mods": "shift|ctrl|num",
             "type": "keyPress"
         },
