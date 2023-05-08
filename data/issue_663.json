@@ -27,7 +27,23 @@
                 "value": "0"
             }
         ],
-        "saveFileSize": 404071
+        "endState": {
+            "locationName": "out01.odm",
+            "partyPosition": {
+                "x": 8794,
+                "y": 5460,
+                "z": 17
+            }
+        },
+        "saveFileSize": 404071,
+        "startState": {
+            "locationName": "out01.odm",
+            "partyPosition": {
+                "x": 8794,
+                "y": 5460,
+                "z": 17
+            }
+        }
     },
     "trace": [
         {

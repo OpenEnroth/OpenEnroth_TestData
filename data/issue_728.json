@@ -82,7 +82,23 @@
                 "value": "3"
             }
         ],
-        "saveFileSize": 480936
+        "endState": {
+            "locationName": "mdk01.blv",
+            "partyPosition": {
+                "x": 160,
+                "y": -1106,
+                "z": 1
+            }
+        },
+        "saveFileSize": 480936,
+        "startState": {
+            "locationName": "mdk01.blv",
+            "partyPosition": {
+                "x": 160,
+                "y": -1106,
+                "z": 1
+            }
+        }
     },
     "trace": [
         {

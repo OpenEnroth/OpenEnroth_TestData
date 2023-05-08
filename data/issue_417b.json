@@ -22,7 +22,23 @@
                 "value": "true"
             }
         ],
-        "saveFileSize": 552363
+        "endState": {
+            "locationName": "d20.blv",
+            "partyPosition": {
+                "x": 917,
+                "y": 3482,
+                "z": 1
+            }
+        },
+        "saveFileSize": 552363,
+        "startState": {
+            "locationName": "d20.blv",
+            "partyPosition": {
+                "x": 924,
+                "y": 4904,
+                "z": 320
+            }
+        }
     },
     "trace": [
         {

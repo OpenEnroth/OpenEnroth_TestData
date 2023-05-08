@@ -1,7 +1,23 @@
 {
     "header": {
         "config": [],
-        "saveFileSize": 407487
+        "endState": {
+            "locationName": "d29.blv",
+            "partyPosition": {
+                "x": -10203,
+                "y": 4045,
+                "z": 1
+            }
+        },
+        "saveFileSize": 407487,
+        "startState": {
+            "locationName": "d29.blv",
+            "partyPosition": {
+                "x": -10203,
+                "y": 4045,
+                "z": 1
+            }
+        }
     },
     "trace": [
         {

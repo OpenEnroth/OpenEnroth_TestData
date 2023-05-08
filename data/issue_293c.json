@@ -1,7 +1,23 @@
 {
     "header": {
         "config": [],
-        "saveFileSize": 424025
+        "endState": {
+            "locationName": "out11.odm",
+            "partyPosition": {
+                "x": -5317,
+                "y": -7872,
+                "z": 1601
+            }
+        },
+        "saveFileSize": 424025,
+        "startState": {
+            "locationName": "out11.odm",
+            "partyPosition": {
+                "x": -5317,
+                "y": -7872,
+                "z": 1601
+            }
+        }
     },
     "trace": [
         {

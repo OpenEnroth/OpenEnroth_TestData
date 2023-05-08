@@ -1,7 +1,23 @@
 {
     "header": {
         "config": [],
-        "saveFileSize": 576900
+        "endState": {
+            "locationName": "out02.odm",
+            "partyPosition": {
+                "x": -17331,
+                "y": 12547,
+                "z": 466
+            }
+        },
+        "saveFileSize": 576900,
+        "startState": {
+            "locationName": "d30.blv",
+            "partyPosition": {
+                "x": -3337,
+                "y": 12533,
+                "z": 1120
+            }
+        }
     },
     "trace": [
         {
