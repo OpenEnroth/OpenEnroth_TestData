@@ -15,6 +15,11 @@
                 "key": "no_damage",
                 "section": "debug",
                 "value": "true"
+            },
+            {
+                "key": "trace_frame_time_ms",
+                "section": "debug",
+                "value": "16"
             }
         ],
         "endState": {
