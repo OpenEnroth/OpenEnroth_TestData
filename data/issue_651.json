@@ -1,0 +1,187 @@
+{
+    "header": {
+        "config": [
+            {
+                "key": "all_magic",
+                "section": "debug",
+                "value": "true"
+            },
+            {
+                "key": "full_monster_id",
+                "section": "debug",
+                "value": "true"
+            },
+            {
+                "key": "no_damage",
+                "section": "debug",
+                "value": "true"
+            },
+            {
+                "key": "town_portal",
+                "section": "debug",
+                "value": "true"
+            },
+            {
+                "key": "trace_frame_time_ms",
+                "section": "debug",
+                "value": "100"
+            },
+            {
+                "key": "wizard_eye",
+                "section": "debug",
+                "value": "true"
+            }
+        ],
+        "endState": {
+            "locationName": "out13.odm",
+            "partyPosition": {
+                "x": 2412,
+                "y": 6036,
+                "z": 4156
+            }
+        },
+        "saveFileSize": 486389,
+        "startState": {
+            "locationName": "out13.odm",
+            "partyPosition": {
+                "x": 2412,
+                "y": 6036,
+                "z": 4149
+            }
+        }
+    },
+    "trace": [
+        {
+            "randomState": 6,
+            "tickCount": 100,
+            "type": "paint"
+        },
+        {
+            "randomState": 6,
+            "tickCount": 200,
+            "type": "paint"
+        },
+        {
+            "randomState": 10,
+            "tickCount": 300,
+            "type": "paint"
+        },
+        {
+            "randomState": 11,
+            "tickCount": 400,
+            "type": "paint"
+        },
+        {
+            "randomState": 18,
+            "tickCount": 500,
+            "type": "paint"
+        },
+        {
+            "randomState": 18,
+            "tickCount": 600,
+            "type": "paint"
+        },
+        {
+            "randomState": 19,
+            "tickCount": 700,
+            "type": "paint"
+        },
+        {
+            "randomState": 43,
+            "tickCount": 800,
+            "type": "paint"
+        },
+        {
+            "randomState": 53,
+            "tickCount": 900,
+            "type": "paint"
+        },
+        {
+            "randomState": 167,
+            "tickCount": 1000,
+            "type": "paint"
+        },
+        {
+            "randomState": 196,
+            "tickCount": 1100,
+            "type": "paint"
+        },
+        {
+            "randomState": 201,
+            "tickCount": 1200,
+            "type": "paint"
+        },
+        {
+            "randomState": 201,
+            "tickCount": 1300,
+            "type": "paint"
+        },
+        {
+            "randomState": 212,
+            "tickCount": 1400,
+            "type": "paint"
+        },
+        {
+            "randomState": 226,
+            "tickCount": 1500,
+            "type": "paint"
+        },
+        {
+            "randomState": 332,
+            "tickCount": 1600,
+            "type": "paint"
+        },
+        {
+            "randomState": 336,
+            "tickCount": 1700,
+            "type": "paint"
+        },
+        {
+            "randomState": 336,
+            "tickCount": 1800,
+            "type": "paint"
+        },
+        {
+            "isAutoRepeat": false,
+            "key": "CONTROL",
+            "mods": "ctrl|num",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 337,
+            "tickCount": 1900,
+            "type": "paint"
+        },
+        {
+            "isAutoRepeat": false,
+            "key": "SHIFT",
+            "mods": "shift|ctrl|num",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 337,
+            "tickCount": 2000,
+            "type": "paint"
+        },
+        {
+            "randomState": 385,
+            "tickCount": 2100,
+            "type": "paint"
+        },
+        {
+            "button": "none",
+            "buttons": "none",
+            "isDoubleClick": false,
+            "pos": {
+                "x": 415,
+                "y": 388
+            },
+            "type": "mouseMove"
+        },
+        {
+            "randomState": 402,
+            "tickCount": 2200,
+            "type": "paint"
+        }
+    ]
+}
