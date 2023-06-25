@@ -2,6 +2,11 @@
     "header": {
         "config": [
             {
+                "key": "trace_frame_time_ms",
+                "section": "debug",
+                "value": "16"
+            },
+            {
                 "key": "attack",
                 "section": "keybindings",
                 "value": "E"
@@ -80,11 +85,6 @@
                 "key": "sound_level",
                 "section": "settings",
                 "value": "3"
-            },
-            {
-                "key": "trace_frame_time_ms",
-                "section": "debug",
-                "value": "16"
             }
         ],
         "endState": {

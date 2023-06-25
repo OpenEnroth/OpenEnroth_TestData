@@ -12,14 +12,14 @@
                 "value": "true"
             },
             {
-                "key": "music_level",
-                "section": "settings",
-                "value": "0"
-            },
-            {
                 "key": "trace_frame_time_ms",
                 "section": "debug",
                 "value": "16"
+            },
+            {
+                "key": "music_level",
+                "section": "settings",
+                "value": "0"
             }
         ],
         "endState": {
