@@ -18,6 +18,11 @@
                 "value": "true"
             },
             {
+                "key": "no_video",
+                "section": "debug",
+                "value": "true"
+            },
+            {
                 "key": "trace_frame_time_ms",
                 "section": "debug",
                 "value": "100"
@@ -26,9 +31,9 @@
         "endState": {
             "locationName": "out01.odm",
             "partyPosition": {
-                "x": 12543,
-                "y": 1068,
-                "z": 193
+                "x": 12546,
+                "y": 1095,
+                "z": 188
             }
         },
         "saveFileSize": 406485,
