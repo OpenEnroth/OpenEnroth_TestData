@@ -13,6 +13,11 @@
                 "value": "true"
             },
             {
+                "key": "no_video",
+                "section": "debug",
+                "value": "true"
+            },
+            {
                 "key": "show_fps",
                 "section": "debug",
                 "value": "true"
@@ -31,8 +36,8 @@
         "endState": {
             "locationName": "d36.blv",
             "partyPosition": {
-                "x": 9191,
-                "y": 600,
+                "x": 9116,
+                "y": 770,
                 "z": -583
             }
         },

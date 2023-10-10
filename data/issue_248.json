@@ -3,6 +3,11 @@
         "afterLoadRandomState": 175,
         "config": [
             {
+                "key": "no_video",
+                "section": "debug",
+                "value": "true"
+            },
+            {
                 "key": "trace_frame_time_ms",
                 "section": "debug",
                 "value": "16"
@@ -12,7 +17,7 @@
             "locationName": "out01.odm",
             "partyPosition": {
                 "x": 12552,
-                "y": 1499,
+                "y": 1511,
                 "z": 1
             }
         },
@@ -1788,7 +1793,7 @@
             "type": "keyRelease"
         },
         {
-            "randomState": 74,
+            "randomState": 84,
             "tickCount": 5072,
             "type": "paint"
         },
@@ -1823,7 +1828,7 @@
             "type": "paint"
         },
         {
-            "randomState": 84,
+            "randomState": 142,
             "tickCount": 5184,
             "type": "paint"
         },
@@ -1903,7 +1908,7 @@
             "type": "paint"
         },
         {
-            "randomState": 142,
+            "randomState": 143,
             "tickCount": 5440,
             "type": "paint"
         },
@@ -1995,7 +2000,7 @@
             "type": "paint"
         },
         {
-            "randomState": 143,
+            "randomState": 149,
             "tickCount": 5696,
             "type": "paint"
         },
@@ -2030,12 +2035,12 @@
             "type": "paint"
         },
         {
-            "randomState": 149,
+            "randomState": 166,
             "tickCount": 5808,
             "type": "paint"
         },
         {
-            "randomState": 166,
+            "randomState": 183,
             "tickCount": 5824,
             "type": "paint"
         },
@@ -2070,7 +2075,7 @@
             "type": "paint"
         },
         {
-            "randomState": 183,
+            "randomState": 188,
             "tickCount": 5936,
             "type": "paint"
         },

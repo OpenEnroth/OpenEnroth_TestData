@@ -18,6 +18,11 @@
                 "value": "true"
             },
             {
+                "key": "no_video",
+                "section": "debug",
+                "value": "true"
+            },
+            {
                 "key": "show_fps",
                 "section": "debug",
                 "value": "true"
@@ -46,8 +51,8 @@
         "endState": {
             "locationName": "out13.odm",
             "partyPosition": {
-                "x": 296,
-                "y": -6949,
+                "x": 321,
+                "y": -6966,
                 "z": 161
             }
         },

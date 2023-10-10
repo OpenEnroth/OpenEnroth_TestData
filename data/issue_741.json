@@ -8,6 +8,11 @@
                 "value": "true"
             },
             {
+                "key": "no_video",
+                "section": "debug",
+                "value": "true"
+            },
+            {
                 "key": "trace_frame_time_ms",
                 "section": "debug",
                 "value": "16"
@@ -16,9 +21,9 @@
         "endState": {
             "locationName": "d06.blv",
             "partyPosition": {
-                "x": -1539,
-                "y": 624,
-                "z": -319
+                "x": -1686,
+                "y": -358,
+                "z": -246
             }
         },
         "saveFileSize": 411370,

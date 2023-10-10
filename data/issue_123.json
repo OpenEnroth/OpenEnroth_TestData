@@ -13,6 +13,11 @@
                 "value": "true"
             },
             {
+                "key": "no_video",
+                "section": "debug",
+                "value": "true"
+            },
+            {
                 "key": "town_portal",
                 "section": "debug",
                 "value": "true"
@@ -33,7 +38,7 @@
             "partyPosition": {
                 "x": 12552,
                 "y": 800,
-                "z": 1732
+                "z": 1733
             }
         },
         "saveFileSize": 406810,

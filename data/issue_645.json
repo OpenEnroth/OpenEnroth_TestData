@@ -3,6 +3,11 @@
         "afterLoadRandomState": 169,
         "config": [
             {
+                "key": "no_video",
+                "section": "debug",
+                "value": "true"
+            },
+            {
                 "key": "trace_frame_time_ms",
                 "section": "debug",
                 "value": "16"
@@ -11,8 +16,8 @@
         "endState": {
             "locationName": "out01.odm",
             "partyPosition": {
-                "x": 11943,
-                "y": 1563,
+                "x": 12001,
+                "y": 1677,
                 "z": 1
             }
         },
@@ -497,17 +502,17 @@
             "type": "paint"
         },
         {
-            "randomState": 56,
+            "randomState": 55,
             "tickCount": 1440,
             "type": "paint"
         },
         {
-            "randomState": 56,
+            "randomState": 55,
             "tickCount": 1456,
             "type": "paint"
         },
         {
-            "randomState": 56,
+            "randomState": 55,
             "tickCount": 1472,
             "type": "paint"
         },
@@ -812,17 +817,17 @@
             "type": "paint"
         },
         {
-            "randomState": 125,
+            "randomState": 124,
             "tickCount": 2448,
             "type": "paint"
         },
         {
-            "randomState": 125,
+            "randomState": 124,
             "tickCount": 2464,
             "type": "paint"
         },
         {
-            "randomState": 125,
+            "randomState": 124,
             "tickCount": 2480,
             "type": "paint"
         },
@@ -1127,17 +1132,17 @@
             "type": "paint"
         },
         {
-            "randomState": 199,
+            "randomState": 198,
             "tickCount": 3456,
             "type": "paint"
         },
         {
-            "randomState": 199,
+            "randomState": 198,
             "tickCount": 3472,
             "type": "paint"
         },
         {
-            "randomState": 199,
+            "randomState": 198,
             "tickCount": 3488,
             "type": "paint"
         },
