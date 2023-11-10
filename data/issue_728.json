@@ -3,6 +3,11 @@
         "afterLoadRandomState": 9,
         "config": [
             {
+                "key": "no_video",
+                "section": "debug",
+                "value": "true"
+            },
+            {
                 "key": "trace_frame_time_ms",
                 "section": "debug",
                 "value": "16"
@@ -3068,7 +3073,7 @@
             "type": "mouseMove"
         },
         {
-            "randomState": 72,
+            "randomState": 76,
             "tickCount": 3408,
             "type": "paint"
         },
@@ -3083,7 +3088,7 @@
             "type": "mouseMove"
         },
         {
-            "randomState": 72,
+            "randomState": 76,
             "tickCount": 3424,
             "type": "paint"
         },
