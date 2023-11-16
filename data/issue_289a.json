@@ -18,11 +18,6 @@
                 "value": "true"
             },
             {
-                "key": "no_video",
-                "section": "debug",
-                "value": "true"
-            },
-            {
                 "key": "show_fps",
                 "section": "debug",
                 "value": "true"
@@ -38,16 +33,16 @@
                 "value": "50"
             },
             {
-                "key": "music_level",
-                "section": "settings",
-                "value": "0"
+                "key": "trace_random_engine",
+                "section": "debug",
+                "value": "sequential"
             }
         ],
         "endState": {
             "locationName": "d28.blv",
             "partyPosition": {
-                "x": 530,
-                "y": 2490,
+                "x": 533,
+                "y": 2495,
                 "z": 1
             }
         },

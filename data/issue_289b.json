@@ -18,11 +18,6 @@
                 "value": "true"
             },
             {
-                "key": "no_video",
-                "section": "debug",
-                "value": "true"
-            },
-            {
                 "key": "show_fps",
                 "section": "debug",
                 "value": "true"
@@ -38,16 +33,16 @@
                 "value": "50"
             },
             {
-                "key": "music_level",
-                "section": "settings",
-                "value": "0"
+                "key": "trace_random_engine",
+                "section": "debug",
+                "value": "sequential"
             }
         ],
         "endState": {
             "locationName": "out01.odm",
             "partyPosition": {
-                "x": 12183,
-                "y": 3963,
+                "x": 12328,
+                "y": 3967,
                 "z": 97
             }
         },
