@@ -13,11 +13,6 @@
                 "value": "true"
             },
             {
-                "key": "no_video",
-                "section": "debug",
-                "value": "true"
-            },
-            {
                 "key": "show_fps",
                 "section": "debug",
                 "value": "true"
@@ -33,9 +28,9 @@
                 "value": "50"
             },
             {
-                "key": "music_level",
-                "section": "settings",
-                "value": "0"
+                "key": "trace_random_engine",
+                "section": "debug",
+                "value": "sequential"
             }
         ],
         "endState": {

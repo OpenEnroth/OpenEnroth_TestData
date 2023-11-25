@@ -31,11 +31,6 @@
                 "key": "trace_random_engine",
                 "section": "debug",
                 "value": "mersenne_twister"
-            },
-            {
-                "key": "music_level",
-                "section": "settings",
-                "value": "5"
             }
         ],
         "endState": {

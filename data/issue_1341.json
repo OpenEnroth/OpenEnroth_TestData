@@ -13,11 +13,6 @@
                 "value": "true"
             },
             {
-                "key": "no_video",
-                "section": "debug",
-                "value": "true"
-            },
-            {
                 "key": "show_fps",
                 "section": "debug",
                 "value": "true"
@@ -36,11 +31,6 @@
                 "key": "trace_random_engine",
                 "section": "debug",
                 "value": "mersenne_twister"
-            },
-            {
-                "key": "music_level",
-                "section": "settings",
-                "value": "5"
             }
         ],
         "endState": {

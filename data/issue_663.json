@@ -28,9 +28,9 @@
                 "value": "16"
             },
             {
-                "key": "music_level",
-                "section": "settings",
-                "value": "0"
+                "key": "trace_random_engine",
+                "section": "debug",
+                "value": "sequential"
             }
         ],
         "endState": {

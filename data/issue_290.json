@@ -33,14 +33,14 @@
                 "value": "100"
             },
             {
+                "key": "trace_random_engine",
+                "section": "debug",
+                "value": "sequential"
+            },
+            {
                 "key": "wizard_eye",
                 "section": "debug",
                 "value": "true"
-            },
-            {
-                "key": "music_level",
-                "section": "settings",
-                "value": "0"
             }
         ],
         "endState": {

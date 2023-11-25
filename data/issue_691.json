@@ -8,19 +8,14 @@
                 "value": "true"
             },
             {
-                "key": "no_video",
-                "section": "debug",
-                "value": "true"
-            },
-            {
                 "key": "trace_frame_time_ms",
                 "section": "debug",
                 "value": "16"
             },
             {
-                "key": "music_level",
-                "section": "settings",
-                "value": "2"
+                "key": "trace_random_engine",
+                "section": "debug",
+                "value": "sequential"
             }
         ],
         "endState": {

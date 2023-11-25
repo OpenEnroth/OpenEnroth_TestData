@@ -18,19 +18,14 @@
                 "value": "50"
             },
             {
-                "key": "music_level",
-                "section": "settings",
-                "value": "2"
+                "key": "trace_random_engine",
+                "section": "debug",
+                "value": "sequential"
             },
             {
                 "key": "screenshot_number",
                 "section": "settings",
                 "value": "1"
-            },
-            {
-                "key": "sound_level",
-                "section": "settings",
-                "value": "6"
             }
         ],
         "endState": {

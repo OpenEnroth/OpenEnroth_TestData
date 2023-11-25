@@ -21,6 +21,11 @@
                 "key": "trace_frame_time_ms",
                 "section": "debug",
                 "value": "15"
+            },
+            {
+                "key": "trace_random_engine",
+                "section": "debug",
+                "value": "sequential"
             }
         ],
         "endState": {

@@ -3,19 +3,14 @@
         "afterLoadRandomState": 154,
         "config": [
             {
-                "key": "no_video",
-                "section": "debug",
-                "value": "true"
-            },
-            {
                 "key": "trace_frame_time_ms",
                 "section": "debug",
                 "value": "16"
             },
             {
-                "key": "sound_level",
-                "section": "settings",
-                "value": "6"
+                "key": "trace_random_engine",
+                "section": "debug",
+                "value": "sequential"
             }
         ],
         "endState": {

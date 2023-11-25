@@ -13,11 +13,6 @@
                 "value": "true"
             },
             {
-                "key": "no_video",
-                "section": "debug",
-                "value": "true"
-            },
-            {
                 "key": "town_portal",
                 "section": "debug",
                 "value": "true"
@@ -26,6 +21,11 @@
                 "key": "trace_frame_time_ms",
                 "section": "debug",
                 "value": "100"
+            },
+            {
+                "key": "trace_random_engine",
+                "section": "debug",
+                "value": "sequential"
             },
             {
                 "key": "wizard_eye",

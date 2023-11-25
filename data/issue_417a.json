@@ -13,11 +13,6 @@
                 "value": "true"
             },
             {
-                "key": "no_video",
-                "section": "debug",
-                "value": "true"
-            },
-            {
                 "key": "show_fps",
                 "section": "debug",
                 "value": "true"
@@ -31,6 +26,11 @@
                 "key": "trace_frame_time_ms",
                 "section": "debug",
                 "value": "16"
+            },
+            {
+                "key": "trace_random_engine",
+                "section": "debug",
+                "value": "sequential"
             }
         ],
         "endState": {
