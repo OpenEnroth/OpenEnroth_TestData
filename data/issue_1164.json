@@ -23,6 +23,11 @@
                 "value": "15"
             },
             {
+                "key": "trace_no_video",
+                "section": "debug",
+                "value": "true"
+            },
+            {
                 "key": "trace_random_engine",
                 "section": "debug",
                 "value": "sequential"
