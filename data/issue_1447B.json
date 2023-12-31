@@ -36,11 +36,6 @@
                 "key": "trace_random_engine",
                 "section": "debug",
                 "value": "sequential"
-            },
-            {
-                "key": "quick_saves_count",
-                "section": "gameplay",
-                "value": "0"
             }
         ],
         "endState": {
