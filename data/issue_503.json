@@ -19,6 +19,24 @@
             }
         ],
         "endState": {
+            "characters": [
+                {
+                    "hp": 1147,
+                    "mp": 0
+                },
+                {
+                    "hp": 699,
+                    "mp": 66
+                },
+                {
+                    "hp": 350,
+                    "mp": 348
+                },
+                {
+                    "hp": 242,
+                    "mp": 457
+                }
+            ],
             "locationName": "d29.blv",
             "partyPosition": {
                 "x": -5121,
@@ -28,6 +46,24 @@
         },
         "saveFileSize": 574074,
         "startState": {
+            "characters": [
+                {
+                    "hp": 1147,
+                    "mp": 0
+                },
+                {
+                    "hp": 699,
+                    "mp": 66
+                },
+                {
+                    "hp": 350,
+                    "mp": 348
+                },
+                {
+                    "hp": 242,
+                    "mp": 477
+                }
+            ],
             "locationName": "mdt12.blv",
             "partyPosition": {
                 "x": -1889,

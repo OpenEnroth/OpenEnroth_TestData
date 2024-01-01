@@ -19,6 +19,24 @@
             }
         ],
         "endState": {
+            "characters": [
+                {
+                    "hp": 77,
+                    "mp": 126
+                },
+                {
+                    "hp": 68,
+                    "mp": 118
+                },
+                {
+                    "hp": 101,
+                    "mp": 116
+                },
+                {
+                    "hp": 99,
+                    "mp": 109
+                }
+            ],
             "locationName": "mdk01.blv",
             "partyPosition": {
                 "x": 129,
@@ -28,6 +46,24 @@
         },
         "saveFileSize": 482624,
         "startState": {
+            "characters": [
+                {
+                    "hp": 83,
+                    "mp": 125
+                },
+                {
+                    "hp": 68,
+                    "mp": 118
+                },
+                {
+                    "hp": 101,
+                    "mp": 115
+                },
+                {
+                    "hp": 99,
+                    "mp": 109
+                }
+            ],
             "locationName": "mdk01.blv",
             "partyPosition": {
                 "x": 129,

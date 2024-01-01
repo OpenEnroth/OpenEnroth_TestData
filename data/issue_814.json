@@ -19,6 +19,24 @@
             }
         ],
         "endState": {
+            "characters": [
+                {
+                    "hp": 6,
+                    "mp": 0
+                },
+                {
+                    "hp": 39,
+                    "mp": 0
+                },
+                {
+                    "hp": 35,
+                    "mp": 22
+                },
+                {
+                    "hp": 22,
+                    "mp": 34
+                }
+            ],
             "locationName": "out06.odm",
             "partyPosition": {
                 "x": 1609,
@@ -28,6 +46,24 @@
         },
         "saveFileSize": 438011,
         "startState": {
+            "characters": [
+                {
+                    "hp": 6,
+                    "mp": 0
+                },
+                {
+                    "hp": 39,
+                    "mp": 0
+                },
+                {
+                    "hp": 35,
+                    "mp": 22
+                },
+                {
+                    "hp": 22,
+                    "mp": 34
+                }
+            ],
             "locationName": "out06.odm",
             "partyPosition": {
                 "x": 1609,

@@ -39,6 +39,24 @@
             }
         ],
         "endState": {
+            "characters": [
+                {
+                    "hp": 45,
+                    "mp": 0
+                },
+                {
+                    "hp": 31,
+                    "mp": 0
+                },
+                {
+                    "hp": 35,
+                    "mp": 22
+                },
+                {
+                    "hp": 16,
+                    "mp": 36
+                }
+            ],
             "locationName": "d28.blv",
             "partyPosition": {
                 "x": -3359,
@@ -48,6 +66,24 @@
         },
         "saveFileSize": 353845,
         "startState": {
+            "characters": [
+                {
+                    "hp": 45,
+                    "mp": 0
+                },
+                {
+                    "hp": 39,
+                    "mp": 0
+                },
+                {
+                    "hp": 35,
+                    "mp": 22
+                },
+                {
+                    "hp": 22,
+                    "mp": 36
+                }
+            ],
             "locationName": "out01.odm",
             "partyPosition": {
                 "x": 13971,

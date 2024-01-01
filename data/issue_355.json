@@ -34,6 +34,24 @@
             }
         ],
         "endState": {
+            "characters": [
+                {
+                    "hp": 6,
+                    "mp": 0
+                },
+                {
+                    "hp": 13,
+                    "mp": 0
+                },
+                {
+                    "hp": 3,
+                    "mp": 22
+                },
+                {
+                    "hp": 13,
+                    "mp": 36
+                }
+            ],
             "locationName": "d06.blv",
             "partyPosition": {
                 "x": -2608,
@@ -43,6 +61,24 @@
         },
         "saveFileSize": 424675,
         "startState": {
+            "characters": [
+                {
+                    "hp": 45,
+                    "mp": 0
+                },
+                {
+                    "hp": 39,
+                    "mp": 0
+                },
+                {
+                    "hp": 35,
+                    "mp": 22
+                },
+                {
+                    "hp": 22,
+                    "mp": 36
+                }
+            ],
             "locationName": "d06.blv",
             "partyPosition": {
                 "x": -2608,

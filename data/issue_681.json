@@ -39,6 +39,24 @@
             }
         ],
         "endState": {
+            "characters": [
+                {
+                    "hp": 54,
+                    "mp": 62
+                },
+                {
+                    "hp": 49,
+                    "mp": 51
+                },
+                {
+                    "hp": 70,
+                    "mp": 59
+                },
+                {
+                    "hp": 51,
+                    "mp": 59
+                }
+            ],
             "locationName": "d17.blv",
             "partyPosition": {
                 "x": 353,
@@ -48,6 +66,24 @@
         },
         "saveFileSize": 451869,
         "startState": {
+            "characters": [
+                {
+                    "hp": 54,
+                    "mp": 62
+                },
+                {
+                    "hp": 49,
+                    "mp": 51
+                },
+                {
+                    "hp": 70,
+                    "mp": 59
+                },
+                {
+                    "hp": 51,
+                    "mp": 59
+                }
+            ],
             "locationName": "d17.blv",
             "partyPosition": {
                 "x": -463,
