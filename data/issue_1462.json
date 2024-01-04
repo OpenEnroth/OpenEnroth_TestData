@@ -1,6 +1,6 @@
 {
     "header": {
-        "afterLoadRandomState": 175,
+        "afterLoadRandomState": 167,
         "config": [
             {
                 "key": "all_magic",
@@ -104,7 +104,7 @@
             "type": "paint"
         },
         {
-            "randomState": 13,
+            "randomState": 10,
             "tickCount": 300,
             "type": "paint"
         },
@@ -119,7 +119,7 @@
             "type": "mouseMove"
         },
         {
-            "randomState": 13,
+            "randomState": 10,
             "tickCount": 400,
             "type": "paint"
         },
@@ -140,7 +140,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 18,
+            "randomState": 15,
             "tickCount": 500,
             "type": "paint"
         },
@@ -161,12 +161,12 @@
             "type": "keyRelease"
         },
         {
-            "randomState": 18,
+            "randomState": 15,
             "tickCount": 600,
             "type": "paint"
         },
         {
-            "randomState": 18,
+            "randomState": 15,
             "tickCount": 700,
             "type": "paint"
         },
@@ -181,7 +181,7 @@
             "type": "mouseButtonPress"
         },
         {
-            "randomState": 18,
+            "randomState": 15,
             "tickCount": 800,
             "type": "paint"
         },
@@ -206,12 +206,12 @@
             "type": "mouseButtonRelease"
         },
         {
-            "randomState": 18,
+            "randomState": 15,
             "tickCount": 900,
             "type": "paint"
         },
         {
-            "randomState": 21,
+            "randomState": 17,
             "tickCount": 1000,
             "type": "paint"
         },
@@ -232,7 +232,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 39,
+            "randomState": 38,
             "tickCount": 1100,
             "type": "paint"
         },
@@ -247,7 +247,7 @@
             "type": "mouseMove"
         },
         {
-            "randomState": 39,
+            "randomState": 38,
             "tickCount": 1200,
             "type": "paint"
         },
@@ -278,7 +278,7 @@
             "type": "mouseButtonPress"
         },
         {
-            "randomState": 39,
+            "randomState": 38,
             "tickCount": 1300,
             "type": "paint"
         },
@@ -293,47 +293,47 @@
             "type": "mouseButtonRelease"
         },
         {
-            "randomState": 47,
+            "randomState": 49,
             "tickCount": 1400,
             "type": "paint"
         },
         {
-            "randomState": 47,
+            "randomState": 49,
             "tickCount": 1500,
             "type": "paint"
         },
         {
-            "randomState": 47,
+            "randomState": 50,
             "tickCount": 1600,
             "type": "paint"
         },
         {
-            "randomState": 47,
+            "randomState": 50,
             "tickCount": 1700,
             "type": "paint"
         },
         {
-            "randomState": 47,
+            "randomState": 51,
             "tickCount": 1800,
             "type": "paint"
         },
         {
-            "randomState": 55,
+            "randomState": 56,
             "tickCount": 1900,
             "type": "paint"
         },
         {
-            "randomState": 64,
+            "randomState": 65,
             "tickCount": 2000,
             "type": "paint"
         },
         {
-            "randomState": 64,
+            "randomState": 68,
             "tickCount": 2100,
             "type": "paint"
         },
         {
-            "randomState": 68,
+            "randomState": 71,
             "tickCount": 2200,
             "type": "paint"
         },
@@ -358,7 +358,7 @@
             "type": "paint"
         },
         {
-            "randomState": 114,
+            "randomState": 113,
             "tickCount": 2700,
             "type": "paint"
         },
@@ -369,7 +369,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 122,
+            "randomState": 121,
             "tickCount": 2800,
             "type": "paint"
         },
@@ -380,12 +380,12 @@
             "type": "keyPress"
         },
         {
-            "randomState": 125,
+            "randomState": 121,
             "tickCount": 2900,
             "type": "paint"
         },
         {
-            "randomState": 133,
+            "randomState": 129,
             "tickCount": 3000,
             "type": "paint"
         }

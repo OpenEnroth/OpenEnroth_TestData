@@ -1,6 +1,6 @@
 {
     "header": {
-        "afterLoadRandomState": 161,
+        "afterLoadRandomState": 153,
         "config": [
             {
                 "key": "all_magic",
@@ -109,22 +109,22 @@
             "type": "paint"
         },
         {
-            "randomState": 1,
+            "randomState": 4,
             "tickCount": 300,
             "type": "paint"
         },
         {
-            "randomState": 1,
+            "randomState": 4,
             "tickCount": 400,
             "type": "paint"
         },
         {
-            "randomState": 1,
+            "randomState": 4,
             "tickCount": 500,
             "type": "paint"
         },
         {
-            "randomState": 1,
+            "randomState": 4,
             "tickCount": 600,
             "type": "paint"
         },

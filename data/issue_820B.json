@@ -1,6 +1,6 @@
 {
     "header": {
-        "afterLoadRandomState": 196,
+        "afterLoadRandomState": 188,
         "config": [
             {
                 "key": "all_magic",
@@ -36,11 +36,11 @@
         "endState": {
             "characters": [
                 {
-                    "hp": -10,
+                    "hp": 4,
                     "mp": 0
                 },
                 {
-                    "hp": -3,
+                    "hp": -15,
                     "mp": 0
                 },
                 {
@@ -48,7 +48,7 @@
                     "mp": 22
                 },
                 {
-                    "hp": 8,
+                    "hp": 0,
                     "mp": 36
                 }
             ],
@@ -645,7 +645,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 207,
+            "randomState": 208,
             "tickCount": 3450,
             "type": "paint"
         },
@@ -656,7 +656,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 215,
+            "randomState": 219,
             "tickCount": 3500,
             "type": "paint"
         },
@@ -667,7 +667,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 231,
+            "randomState": 234,
             "tickCount": 3550,
             "type": "paint"
         },
@@ -898,7 +898,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 317,
+            "randomState": 318,
             "tickCount": 4600,
             "type": "paint"
         },
@@ -909,7 +909,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 321,
+            "randomState": 325,
             "tickCount": 4650,
             "type": "paint"
         },
@@ -920,7 +920,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 325,
+            "randomState": 326,
             "tickCount": 4700,
             "type": "paint"
         },
@@ -1030,7 +1030,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 351,
+            "randomState": 355,
             "tickCount": 5200,
             "type": "paint"
         },
@@ -1041,7 +1041,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 357,
+            "randomState": 355,
             "tickCount": 5250,
             "type": "paint"
         },
@@ -1052,7 +1052,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 367,
+            "randomState": 362,
             "tickCount": 5300,
             "type": "paint"
         },
@@ -1063,7 +1063,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 367,
+            "randomState": 362,
             "tickCount": 5350,
             "type": "paint"
         },
@@ -1074,7 +1074,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 369,
+            "randomState": 364,
             "tickCount": 5400,
             "type": "paint"
         },
@@ -1085,7 +1085,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 369,
+            "randomState": 364,
             "tickCount": 5450,
             "type": "paint"
         },
@@ -1096,7 +1096,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 369,
+            "randomState": 368,
             "tickCount": 5500,
             "type": "paint"
         },
@@ -1118,7 +1118,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 385,
+            "randomState": 389,
             "tickCount": 5600,
             "type": "paint"
         },
@@ -1129,7 +1129,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 393,
+            "randomState": 389,
             "tickCount": 5650,
             "type": "paint"
         },
@@ -1140,7 +1140,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 395,
+            "randomState": 391,
             "tickCount": 5700,
             "type": "paint"
         },
@@ -1151,7 +1151,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 395,
+            "randomState": 391,
             "tickCount": 5750,
             "type": "paint"
         },
@@ -1162,7 +1162,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 401,
+            "randomState": 399,
             "tickCount": 5800,
             "type": "paint"
         },
@@ -1173,7 +1173,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 408,
+            "randomState": 409,
             "tickCount": 5850,
             "type": "paint"
         },
@@ -1184,7 +1184,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 408,
+            "randomState": 409,
             "tickCount": 5900,
             "type": "paint"
         },
@@ -1195,7 +1195,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 413,
+            "randomState": 410,
             "tickCount": 5950,
             "type": "paint"
         },
@@ -1206,7 +1206,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 413,
+            "randomState": 410,
             "tickCount": 6000,
             "type": "paint"
         },
@@ -1217,17 +1217,17 @@
             "type": "keyRelease"
         },
         {
-            "randomState": 422,
+            "randomState": 419,
             "tickCount": 6050,
             "type": "paint"
         },
         {
-            "randomState": 422,
+            "randomState": 419,
             "tickCount": 6100,
             "type": "paint"
         },
         {
-            "randomState": 431,
+            "randomState": 427,
             "tickCount": 6150,
             "type": "paint"
         },
@@ -1238,17 +1238,17 @@
             "type": "keyPress"
         },
         {
-            "randomState": 431,
+            "randomState": 427,
             "tickCount": 6200,
             "type": "paint"
         },
         {
-            "randomState": 442,
+            "randomState": 438,
             "tickCount": 6250,
             "type": "paint"
         },
         {
-            "randomState": 451,
+            "randomState": 448,
             "tickCount": 6300,
             "type": "paint"
         },
@@ -1259,57 +1259,57 @@
             "type": "keyPress"
         },
         {
-            "randomState": 463,
+            "randomState": 460,
             "tickCount": 6350,
             "type": "paint"
         },
         {
-            "randomState": 463,
+            "randomState": 460,
             "tickCount": 6400,
             "type": "paint"
         },
         {
-            "randomState": 474,
+            "randomState": 471,
             "tickCount": 6450,
             "type": "paint"
         },
         {
-            "randomState": 474,
+            "randomState": 471,
             "tickCount": 6500,
             "type": "paint"
         },
         {
-            "randomState": 485,
+            "randomState": 481,
             "tickCount": 6550,
             "type": "paint"
         },
         {
-            "randomState": 485,
+            "randomState": 481,
             "tickCount": 6600,
             "type": "paint"
         },
         {
-            "randomState": 491,
+            "randomState": 487,
             "tickCount": 6650,
             "type": "paint"
         },
         {
-            "randomState": 491,
+            "randomState": 487,
             "tickCount": 6700,
             "type": "paint"
         },
         {
-            "randomState": 495,
+            "randomState": 491,
             "tickCount": 6750,
             "type": "paint"
         },
         {
-            "randomState": 503,
+            "randomState": 499,
             "tickCount": 6800,
             "type": "paint"
         },
         {
-            "randomState": 506,
+            "randomState": 502,
             "tickCount": 6850,
             "type": "paint"
         }

@@ -1,6 +1,6 @@
 {
     "header": {
-        "afterLoadRandomState": 171,
+        "afterLoadRandomState": 163,
         "config": [
             {
                 "key": "trace_frame_time_ms",
@@ -494,7 +494,7 @@
             "type": "mouseMove"
         },
         {
-            "randomState": 1,
+            "randomState": 4,
             "tickCount": 544,
             "type": "paint"
         },
