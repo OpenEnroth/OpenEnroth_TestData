@@ -41,20 +41,48 @@
         "endState": {
             "characters": [
                 {
+                    "accuracy": 43,
+                    "endurance": 43,
                     "hp": 45,
-                    "mp": 0
+                    "intelligence": 35,
+                    "luck": 37,
+                    "might": 60,
+                    "mp": 0,
+                    "personality": 35,
+                    "speed": 44
                 },
                 {
+                    "accuracy": 43,
+                    "endurance": 43,
                     "hp": 39,
-                    "mp": 0
+                    "intelligence": 39,
+                    "luck": 43,
+                    "might": 43,
+                    "mp": 0,
+                    "personality": 39,
+                    "speed": 43
                 },
                 {
+                    "accuracy": 37,
+                    "endurance": 52,
                     "hp": 35,
-                    "mp": 22
+                    "intelligence": 39,
+                    "luck": 37,
+                    "might": 42,
+                    "mp": 22,
+                    "personality": 50,
+                    "speed": 43
                 },
                 {
+                    "accuracy": 43,
+                    "endurance": 43,
                     "hp": 22,
-                    "mp": 36
+                    "intelligence": 60,
+                    "luck": 37,
+                    "might": 35,
+                    "mp": 36,
+                    "personality": 39,
+                    "speed": 43
                 }
             ],
             "locationName": "d28.blv",
@@ -68,20 +96,48 @@
         "startState": {
             "characters": [
                 {
+                    "accuracy": 43,
+                    "endurance": 43,
                     "hp": 45,
-                    "mp": 0
+                    "intelligence": 35,
+                    "luck": 37,
+                    "might": 60,
+                    "mp": 0,
+                    "personality": 35,
+                    "speed": 44
                 },
                 {
+                    "accuracy": 43,
+                    "endurance": 43,
                     "hp": 39,
-                    "mp": 0
+                    "intelligence": 39,
+                    "luck": 43,
+                    "might": 43,
+                    "mp": 0,
+                    "personality": 39,
+                    "speed": 43
                 },
                 {
+                    "accuracy": 37,
+                    "endurance": 52,
                     "hp": 35,
-                    "mp": 22
+                    "intelligence": 39,
+                    "luck": 37,
+                    "might": 42,
+                    "mp": 22,
+                    "personality": 50,
+                    "speed": 43
                 },
                 {
+                    "accuracy": 43,
+                    "endurance": 43,
                     "hp": 22,
-                    "mp": 36
+                    "intelligence": 60,
+                    "luck": 37,
+                    "might": 35,
+                    "mp": 36,
+                    "personality": 39,
+                    "speed": 43
                 }
             ],
             "locationName": "d28.blv",

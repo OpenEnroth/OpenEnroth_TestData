@@ -51,20 +51,48 @@
         "endState": {
             "characters": [
                 {
+                    "accuracy": 311,
+                    "endurance": 335,
                     "hp": 311,
-                    "mp": 347
+                    "intelligence": 309,
+                    "luck": 225,
+                    "might": 266,
+                    "mp": 347,
+                    "personality": 264,
+                    "speed": 315
                 },
                 {
+                    "accuracy": 377,
+                    "endurance": 344,
                     "hp": 526,
-                    "mp": 239
+                    "intelligence": 261,
+                    "luck": 315,
+                    "might": 313,
+                    "mp": 239,
+                    "personality": 271,
+                    "speed": 462
                 },
                 {
+                    "accuracy": 384,
+                    "endurance": 335,
                     "hp": 526,
-                    "mp": 242
+                    "intelligence": 292,
+                    "luck": 263,
+                    "might": 277,
+                    "mp": 242,
+                    "personality": 283,
+                    "speed": 418
                 },
                 {
+                    "accuracy": 340,
+                    "endurance": 359,
                     "hp": 490,
-                    "mp": 239
+                    "intelligence": 268,
+                    "luck": 257,
+                    "might": 249,
+                    "mp": 239,
+                    "personality": 263,
+                    "speed": 440
                 }
             ],
             "locationName": "out12.odm",
@@ -78,20 +106,48 @@
         "startState": {
             "characters": [
                 {
+                    "accuracy": 311,
+                    "endurance": 335,
                     "hp": 307,
-                    "mp": 347
+                    "intelligence": 309,
+                    "luck": 225,
+                    "might": 266,
+                    "mp": 347,
+                    "personality": 264,
+                    "speed": 315
                 },
                 {
+                    "accuracy": 377,
+                    "endurance": 344,
                     "hp": 526,
-                    "mp": 239
+                    "intelligence": 261,
+                    "luck": 315,
+                    "might": 313,
+                    "mp": 239,
+                    "personality": 271,
+                    "speed": 462
                 },
                 {
+                    "accuracy": 384,
+                    "endurance": 335,
                     "hp": 526,
-                    "mp": 242
+                    "intelligence": 292,
+                    "luck": 263,
+                    "might": 277,
+                    "mp": 242,
+                    "personality": 283,
+                    "speed": 418
                 },
                 {
+                    "accuracy": 340,
+                    "endurance": 359,
                     "hp": 490,
-                    "mp": 239
+                    "intelligence": 268,
+                    "luck": 257,
+                    "might": 249,
+                    "mp": 239,
+                    "personality": 263,
+                    "speed": 440
                 }
             ],
             "locationName": "out12.odm",
