@@ -26,20 +26,48 @@
         "endState": {
             "characters": [
                 {
+                    "accuracy": 24,
+                    "endurance": 32,
                     "hp": 62,
-                    "mp": 105
+                    "intelligence": 27,
+                    "luck": 33,
+                    "might": 22,
+                    "mp": 105,
+                    "personality": 5,
+                    "speed": 24
                 },
                 {
+                    "accuracy": 24,
+                    "endurance": 16,
                     "hp": 52,
-                    "mp": 96
+                    "intelligence": 24,
+                    "luck": 23,
+                    "might": 22,
+                    "mp": 96,
+                    "personality": 9,
+                    "speed": 14
                 },
                 {
+                    "accuracy": 19,
+                    "endurance": 32,
                     "hp": 101,
-                    "mp": 99
+                    "intelligence": 11,
+                    "luck": 25,
+                    "might": 22,
+                    "mp": 99,
+                    "personality": 41,
+                    "speed": 15
                 },
                 {
+                    "accuracy": 22,
+                    "endurance": 42,
                     "hp": 73,
-                    "mp": 94
+                    "intelligence": 36,
+                    "luck": 21,
+                    "might": 15,
+                    "mp": 94,
+                    "personality": 9,
+                    "speed": 15
                 }
             ],
             "locationName": "d24.blv",
@@ -53,20 +81,48 @@
         "startState": {
             "characters": [
                 {
+                    "accuracy": 24,
+                    "endurance": 32,
                     "hp": 62,
-                    "mp": 105
+                    "intelligence": 27,
+                    "luck": 33,
+                    "might": 22,
+                    "mp": 105,
+                    "personality": 5,
+                    "speed": 24
                 },
                 {
+                    "accuracy": 24,
+                    "endurance": 16,
                     "hp": 52,
-                    "mp": 96
+                    "intelligence": 24,
+                    "luck": 23,
+                    "might": 22,
+                    "mp": 96,
+                    "personality": 9,
+                    "speed": 14
                 },
                 {
+                    "accuracy": 19,
+                    "endurance": 32,
                     "hp": 101,
-                    "mp": 99
+                    "intelligence": 11,
+                    "luck": 25,
+                    "might": 22,
+                    "mp": 99,
+                    "personality": 41,
+                    "speed": 15
                 },
                 {
+                    "accuracy": 22,
+                    "endurance": 42,
                     "hp": 73,
-                    "mp": 94
+                    "intelligence": 36,
+                    "luck": 21,
+                    "might": 15,
+                    "mp": 94,
+                    "personality": 9,
+                    "speed": 15
                 }
             ],
             "locationName": "d24.blv",

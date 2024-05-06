@@ -26,20 +26,48 @@
         "endState": {
             "characters": [
                 {
+                    "accuracy": 84,
+                    "endurance": 43,
                     "hp": 110,
-                    "mp": 42
+                    "intelligence": 110,
+                    "luck": 41,
+                    "might": 91,
+                    "mp": 42,
+                    "personality": 97,
+                    "speed": 53
                 },
                 {
+                    "accuracy": 110,
+                    "endurance": 43,
                     "hp": 120,
-                    "mp": 186
+                    "intelligence": 110,
+                    "luck": 39,
+                    "might": 61,
+                    "mp": 186,
+                    "personality": 93,
+                    "speed": 65
                 },
                 {
+                    "accuracy": 89,
+                    "endurance": 49,
                     "hp": 120,
-                    "mp": 214
+                    "intelligence": 112,
+                    "luck": 39,
+                    "might": 95,
+                    "mp": 214,
+                    "personality": 97,
+                    "speed": 47
                 },
                 {
+                    "accuracy": 62,
+                    "endurance": 62,
                     "hp": 113,
-                    "mp": 53
+                    "intelligence": 110,
+                    "luck": 50,
+                    "might": 45,
+                    "mp": 53,
+                    "personality": 110,
+                    "speed": 57
                 }
             ],
             "locationName": "d26.blv",
@@ -53,20 +81,48 @@
         "startState": {
             "characters": [
                 {
+                    "accuracy": 84,
+                    "endurance": 43,
                     "hp": 110,
-                    "mp": 42
+                    "intelligence": 110,
+                    "luck": 41,
+                    "might": 91,
+                    "mp": 42,
+                    "personality": 97,
+                    "speed": 53
                 },
                 {
+                    "accuracy": 110,
+                    "endurance": 43,
                     "hp": 120,
-                    "mp": 186
+                    "intelligence": 110,
+                    "luck": 39,
+                    "might": 61,
+                    "mp": 186,
+                    "personality": 93,
+                    "speed": 65
                 },
                 {
+                    "accuracy": 89,
+                    "endurance": 49,
                     "hp": 120,
-                    "mp": 214
+                    "intelligence": 112,
+                    "luck": 39,
+                    "might": 95,
+                    "mp": 214,
+                    "personality": 97,
+                    "speed": 47
                 },
                 {
+                    "accuracy": 62,
+                    "endurance": 62,
                     "hp": 113,
-                    "mp": 53
+                    "intelligence": 110,
+                    "luck": 50,
+                    "might": 45,
+                    "mp": 53,
+                    "personality": 110,
+                    "speed": 57
                 }
             ],
             "locationName": "d26.blv",

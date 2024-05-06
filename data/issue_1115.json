@@ -46,20 +46,48 @@
         "endState": {
             "characters": [
                 {
+                    "accuracy": 13,
+                    "endurance": 13,
                     "hp": 145,
-                    "mp": 0
+                    "intelligence": 5,
+                    "luck": 7,
+                    "might": 30,
+                    "mp": 0,
+                    "personality": 5,
+                    "speed": 14
                 },
                 {
+                    "accuracy": 13,
+                    "endurance": 13,
                     "hp": 119,
-                    "mp": 0
+                    "intelligence": 9,
+                    "luck": 13,
+                    "might": 13,
+                    "mp": 0,
+                    "personality": 9,
+                    "speed": 13
                 },
                 {
+                    "accuracy": 7,
+                    "endurance": 22,
                     "hp": 75,
-                    "mp": 82
+                    "intelligence": 9,
+                    "luck": 7,
+                    "might": 12,
+                    "mp": 82,
+                    "personality": 20,
+                    "speed": 13
                 },
                 {
+                    "accuracy": 13,
+                    "endurance": 13,
                     "hp": 62,
-                    "mp": 96
+                    "intelligence": 30,
+                    "luck": 7,
+                    "might": 5,
+                    "mp": 96,
+                    "personality": 9,
+                    "speed": 13
                 }
             ],
             "locationName": "d05.blv",
@@ -73,20 +101,48 @@
         "startState": {
             "characters": [
                 {
+                    "accuracy": 13,
+                    "endurance": 13,
                     "hp": 145,
-                    "mp": 0
+                    "intelligence": 5,
+                    "luck": 7,
+                    "might": 30,
+                    "mp": 0,
+                    "personality": 5,
+                    "speed": 14
                 },
                 {
+                    "accuracy": 13,
+                    "endurance": 13,
                     "hp": 85,
-                    "mp": 0
+                    "intelligence": 9,
+                    "luck": 13,
+                    "might": 13,
+                    "mp": 0,
+                    "personality": 9,
+                    "speed": 13
                 },
                 {
+                    "accuracy": 7,
+                    "endurance": 22,
                     "hp": 63,
-                    "mp": 82
+                    "intelligence": 9,
+                    "luck": 7,
+                    "might": 12,
+                    "mp": 82,
+                    "personality": 20,
+                    "speed": 13
                 },
                 {
+                    "accuracy": 13,
+                    "endurance": 13,
                     "hp": 29,
-                    "mp": 96
+                    "intelligence": 30,
+                    "luck": 7,
+                    "might": 5,
+                    "mp": 96,
+                    "personality": 9,
+                    "speed": 13
                 }
             ],
             "locationName": "out02.odm",
