@@ -41,20 +41,48 @@
         "endState": {
             "characters": [
                 {
+                    "accuracy": 139,
+                    "endurance": 93,
                     "hp": 304,
-                    "mp": 630
+                    "intelligence": 73,
+                    "luck": 113,
+                    "might": 103,
+                    "mp": 630,
+                    "personality": 155,
+                    "speed": 195
                 },
                 {
+                    "accuracy": 135,
+                    "endurance": 82,
                     "hp": 605,
-                    "mp": 341
+                    "intelligence": 122,
+                    "luck": 69,
+                    "might": 107,
+                    "mp": 341,
+                    "personality": 42,
+                    "speed": 103
                 },
                 {
+                    "accuracy": 112,
+                    "endurance": 143,
                     "hp": 398,
-                    "mp": 21
+                    "intelligence": 42,
+                    "luck": 69,
+                    "might": 106,
+                    "mp": 21,
+                    "personality": 119,
+                    "speed": 101
                 },
                 {
+                    "accuracy": 116,
+                    "endurance": 155,
                     "hp": 269,
-                    "mp": 532
+                    "intelligence": 120,
+                    "luck": 69,
+                    "might": 97,
+                    "mp": 532,
+                    "personality": 23,
+                    "speed": 103
                 }
             ],
             "locationName": "d04.blv",
@@ -68,20 +96,48 @@
         "startState": {
             "characters": [
                 {
+                    "accuracy": 139,
+                    "endurance": 93,
                     "hp": 304,
-                    "mp": 630
+                    "intelligence": 73,
+                    "luck": 113,
+                    "might": 103,
+                    "mp": 630,
+                    "personality": 155,
+                    "speed": 195
                 },
                 {
+                    "accuracy": 135,
+                    "endurance": 82,
                     "hp": 605,
-                    "mp": 341
+                    "intelligence": 122,
+                    "luck": 69,
+                    "might": 107,
+                    "mp": 341,
+                    "personality": 42,
+                    "speed": 103
                 },
                 {
+                    "accuracy": 112,
+                    "endurance": 143,
                     "hp": 398,
-                    "mp": 21
+                    "intelligence": 42,
+                    "luck": 69,
+                    "might": 106,
+                    "mp": 21,
+                    "personality": 119,
+                    "speed": 101
                 },
                 {
+                    "accuracy": 116,
+                    "endurance": 155,
                     "hp": 269,
-                    "mp": 532
+                    "intelligence": 120,
+                    "luck": 69,
+                    "might": 97,
+                    "mp": 532,
+                    "personality": 23,
+                    "speed": 103
                 }
             ],
             "locationName": "d04.blv",

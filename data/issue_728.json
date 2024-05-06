@@ -26,20 +26,48 @@
         "endState": {
             "characters": [
                 {
+                    "accuracy": 24,
+                    "endurance": 32,
                     "hp": 83,
-                    "mp": 126
+                    "intelligence": 27,
+                    "luck": 33,
+                    "might": 22,
+                    "mp": 126,
+                    "personality": 5,
+                    "speed": 24
                 },
                 {
+                    "accuracy": 26,
+                    "endurance": 16,
                     "hp": 68,
-                    "mp": 118
+                    "intelligence": 24,
+                    "luck": 23,
+                    "might": 24,
+                    "mp": 118,
+                    "personality": 9,
+                    "speed": 16
                 },
                 {
+                    "accuracy": 21,
+                    "endurance": 32,
                     "hp": 101,
-                    "mp": 116
+                    "intelligence": 11,
+                    "luck": 25,
+                    "might": 22,
+                    "mp": 116,
+                    "personality": 41,
+                    "speed": 15
                 },
                 {
+                    "accuracy": 22,
+                    "endurance": 57,
                     "hp": 99,
-                    "mp": 109
+                    "intelligence": 36,
+                    "luck": 21,
+                    "might": 15,
+                    "mp": 109,
+                    "personality": 9,
+                    "speed": 15
                 }
             ],
             "locationName": "mdk01.blv",
@@ -53,20 +81,48 @@
         "startState": {
             "characters": [
                 {
+                    "accuracy": 24,
+                    "endurance": 32,
                     "hp": 83,
-                    "mp": 125
+                    "intelligence": 27,
+                    "luck": 33,
+                    "might": 22,
+                    "mp": 125,
+                    "personality": 5,
+                    "speed": 24
                 },
                 {
+                    "accuracy": 26,
+                    "endurance": 16,
                     "hp": 68,
-                    "mp": 118
+                    "intelligence": 24,
+                    "luck": 23,
+                    "might": 24,
+                    "mp": 118,
+                    "personality": 9,
+                    "speed": 16
                 },
                 {
+                    "accuracy": 21,
+                    "endurance": 32,
                     "hp": 101,
-                    "mp": 115
+                    "intelligence": 11,
+                    "luck": 25,
+                    "might": 22,
+                    "mp": 115,
+                    "personality": 41,
+                    "speed": 15
                 },
                 {
+                    "accuracy": 22,
+                    "endurance": 57,
                     "hp": 99,
-                    "mp": 109
+                    "intelligence": 36,
+                    "luck": 21,
+                    "might": 15,
+                    "mp": 109,
+                    "personality": 9,
+                    "speed": 15
                 }
             ],
             "locationName": "mdk01.blv",
