@@ -1,0 +1,491 @@
+{
+    "header": {
+        "afterLoadRandomState": 854299,
+        "config": [
+            {
+                "key": "all_magic",
+                "section": "debug",
+                "value": "true"
+            },
+            {
+                "key": "no_actors",
+                "section": "debug",
+                "value": "true"
+            },
+            {
+                "key": "no_damage",
+                "section": "debug",
+                "value": "true"
+            },
+            {
+                "key": "show_fps",
+                "section": "debug",
+                "value": "true"
+            },
+            {
+                "key": "town_portal",
+                "section": "debug",
+                "value": "true"
+            },
+            {
+                "key": "trace_frame_time_ms",
+                "section": "debug",
+                "value": "50"
+            },
+            {
+                "key": "trace_no_party_actor_collisions",
+                "section": "debug",
+                "value": "false"
+            },
+            {
+                "key": "trace_no_video",
+                "section": "debug",
+                "value": "true"
+            },
+            {
+                "key": "trace_random_engine",
+                "section": "debug",
+                "value": "mersenne_twister"
+            },
+            {
+                "key": "wizard_eye",
+                "section": "debug",
+                "value": "true"
+            }
+        ],
+        "endState": {
+            "characters": [
+                {
+                    "accuracy": 47,
+                    "endurance": 97,
+                    "hp": 390,
+                    "intelligence": 25,
+                    "luck": 31,
+                    "might": 107,
+                    "mp": 197,
+                    "personality": 83,
+                    "speed": 46
+                },
+                {
+                    "accuracy": 33,
+                    "endurance": 40,
+                    "hp": 509,
+                    "intelligence": 39,
+                    "luck": 39,
+                    "might": 100,
+                    "mp": 59,
+                    "personality": 71,
+                    "speed": 40
+                },
+                {
+                    "accuracy": 49,
+                    "endurance": 34,
+                    "hp": 366,
+                    "intelligence": 75,
+                    "luck": 29,
+                    "might": 98,
+                    "mp": 189,
+                    "personality": 75,
+                    "speed": 51
+                },
+                {
+                    "accuracy": 30,
+                    "endurance": 34,
+                    "hp": 212,
+                    "intelligence": 112,
+                    "luck": 46,
+                    "might": 77,
+                    "mp": 173,
+                    "personality": 110,
+                    "speed": 40
+                }
+            ],
+            "locationName": "d03.blv",
+            "partyPosition": {
+                "x": -8918,
+                "y": -16711,
+                "z": -2231
+            }
+        },
+        "saveFileSize": 570677,
+        "startState": {
+            "characters": [
+                {
+                    "accuracy": 47,
+                    "endurance": 97,
+                    "hp": 390,
+                    "intelligence": 25,
+                    "luck": 31,
+                    "might": 107,
+                    "mp": 197,
+                    "personality": 83,
+                    "speed": 46
+                },
+                {
+                    "accuracy": 33,
+                    "endurance": 40,
+                    "hp": 509,
+                    "intelligence": 39,
+                    "luck": 39,
+                    "might": 100,
+                    "mp": 59,
+                    "personality": 71,
+                    "speed": 40
+                },
+                {
+                    "accuracy": 49,
+                    "endurance": 34,
+                    "hp": 366,
+                    "intelligence": 75,
+                    "luck": 29,
+                    "might": 98,
+                    "mp": 189,
+                    "personality": 75,
+                    "speed": 51
+                },
+                {
+                    "accuracy": 30,
+                    "endurance": 34,
+                    "hp": 212,
+                    "intelligence": 112,
+                    "luck": 46,
+                    "might": 77,
+                    "mp": 173,
+                    "personality": 110,
+                    "speed": 40
+                }
+            ],
+            "locationName": "d03.blv",
+            "partyPosition": {
+                "x": -8989,
+                "y": -16022,
+                "z": -2367
+            }
+        }
+    },
+    "trace": [
+        {
+            "randomState": 854299,
+            "tickCount": 50,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 100,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 150,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 200,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 250,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 300,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 350,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 400,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 450,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 500,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 550,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 600,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 650,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 700,
+            "type": "paint"
+        },
+        {
+            "isAutoRepeat": false,
+            "key": "UP",
+            "mods": "num",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 750,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 800,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 850,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 900,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 950,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1000,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1050,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1100,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1150,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1200,
+            "type": "paint"
+        },
+        {
+            "isAutoRepeat": true,
+            "key": "UP",
+            "mods": "num",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1250,
+            "type": "paint"
+        },
+        {
+            "isAutoRepeat": true,
+            "key": "UP",
+            "mods": "num",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1300,
+            "type": "paint"
+        },
+        {
+            "isAutoRepeat": true,
+            "key": "UP",
+            "mods": "num",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1350,
+            "type": "paint"
+        },
+        {
+            "isAutoRepeat": true,
+            "key": "UP",
+            "mods": "num",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1400,
+            "type": "paint"
+        },
+        {
+            "isAutoRepeat": true,
+            "key": "UP",
+            "mods": "num",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1450,
+            "type": "paint"
+        },
+        {
+            "isAutoRepeat": true,
+            "key": "UP",
+            "mods": "num",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1500,
+            "type": "paint"
+        },
+        {
+            "isAutoRepeat": true,
+            "key": "UP",
+            "mods": "num",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1550,
+            "type": "paint"
+        },
+        {
+            "isAutoRepeat": false,
+            "key": "RIGHT",
+            "mods": "num",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1600,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1650,
+            "type": "paint"
+        },
+        {
+            "isAutoRepeat": false,
+            "key": "RIGHT",
+            "mods": "num",
+            "type": "keyRelease"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1700,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1750,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1800,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1850,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1900,
+            "type": "paint"
+        },
+        {
+            "isAutoRepeat": false,
+            "key": "UP",
+            "mods": "num",
+            "type": "keyRelease"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 1950,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 2000,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 2050,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 2100,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 2150,
+            "type": "paint"
+        },
+        {
+            "isAutoRepeat": false,
+            "key": "CONTROL",
+            "mods": "ctrl|num",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 2200,
+            "type": "paint"
+        },
+        {
+            "isAutoRepeat": false,
+            "key": "SHIFT",
+            "mods": "shift|ctrl|num",
+            "type": "keyPress"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 2250,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 2300,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 2350,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 2400,
+            "type": "paint"
+        },
+        {
+            "randomState": 854299,
+            "tickCount": 2450,
+            "type": "paint"
+        }
+    ]
+}
