@@ -48,7 +48,7 @@
                 {
                     "accuracy": 40,
                     "endurance": 84,
-                    "hp": 636,
+                    "hp": 542,
                     "intelligence": 29,
                     "luck": 81,
                     "might": 92,
@@ -59,7 +59,7 @@
                 {
                     "accuracy": 85,
                     "endurance": 30,
-                    "hp": 707,
+                    "hp": 288,
                     "intelligence": 31,
                     "luck": 79,
                     "might": 100,
@@ -70,7 +70,7 @@
                 {
                     "accuracy": 36,
                     "endurance": 36,
-                    "hp": 576,
+                    "hp": 235,
                     "intelligence": 75,
                     "luck": 79,
                     "might": 100,
@@ -81,7 +81,7 @@
                 {
                     "accuracy": 30,
                     "endurance": 34,
-                    "hp": 324,
+                    "hp": 133,
                     "intelligence": 92,
                     "luck": 77,
                     "might": 79,
@@ -435,7 +435,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 840273,
+            "randomState": 944612,
             "tickCount": 5100,
             "type": "paint"
         },
@@ -446,17 +446,17 @@
             "type": "keyPress"
         },
         {
-            "randomState": 840273,
+            "randomState": 944612,
             "tickCount": 5200,
             "type": "paint"
         },
         {
-            "randomState": 614451,
+            "randomState": 87538,
             "tickCount": 5300,
             "type": "paint"
         },
         {
-            "randomState": 614451,
+            "randomState": 87538,
             "tickCount": 5400,
             "type": "paint"
         },
@@ -467,7 +467,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 614451,
+            "randomState": 87538,
             "tickCount": 5500,
             "type": "paint"
         }
