@@ -1,6 +1,6 @@
 {
     "header": {
-        "afterLoadRandomState": 167,
+        "afterLoadRandomState": 168,
         "config": [
             {
                 "key": "all_magic",
@@ -165,7 +165,7 @@
             "type": "paint"
         },
         {
-            "randomState": 10,
+            "randomState": 8,
             "tickCount": 300,
             "type": "paint"
         },
@@ -176,27 +176,27 @@
             "type": "keyPress"
         },
         {
-            "randomState": 10,
+            "randomState": 8,
             "tickCount": 400,
             "type": "paint"
         },
         {
-            "randomState": 15,
+            "randomState": 12,
             "tickCount": 500,
             "type": "paint"
         },
         {
-            "randomState": 15,
+            "randomState": 12,
             "tickCount": 600,
             "type": "paint"
         },
         {
-            "randomState": 20,
+            "randomState": 14,
             "tickCount": 700,
             "type": "paint"
         },
         {
-            "randomState": 38,
+            "randomState": 36,
             "tickCount": 800,
             "type": "paint"
         },
@@ -207,7 +207,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 46,
+            "randomState": 44,
             "tickCount": 900,
             "type": "paint"
         },
@@ -218,7 +218,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 46,
+            "randomState": 44,
             "tickCount": 1000,
             "type": "paint"
         },
@@ -229,7 +229,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 47,
+            "randomState": 45,
             "tickCount": 1100,
             "type": "paint"
         },
@@ -246,7 +246,7 @@
             "type": "keyRelease"
         },
         {
-            "randomState": 50,
+            "randomState": 45,
             "tickCount": 1200,
             "type": "paint"
         },
@@ -263,22 +263,22 @@
             "type": "keyPress"
         },
         {
-            "randomState": 50,
+            "randomState": 45,
             "tickCount": 1300,
             "type": "paint"
         },
         {
-            "randomState": 55,
+            "randomState": 50,
             "tickCount": 1400,
             "type": "paint"
         },
         {
-            "randomState": 64,
+            "randomState": 59,
             "tickCount": 1500,
             "type": "paint"
         },
         {
-            "randomState": 64,
+            "randomState": 59,
             "tickCount": 1600,
             "type": "paint"
         }
