@@ -1,6 +1,6 @@
 {
     "header": {
-        "afterLoadRandomState": 153,
+        "afterLoadRandomState": 154,
         "config": [
             {
                 "key": "all_magic",
@@ -165,27 +165,27 @@
             "type": "paint"
         },
         {
-            "randomState": 9,
+            "randomState": 10,
             "tickCount": 300,
             "type": "paint"
         },
         {
-            "randomState": 9,
+            "randomState": 10,
             "tickCount": 400,
             "type": "paint"
         },
         {
-            "randomState": 13,
+            "randomState": 15,
             "tickCount": 500,
             "type": "paint"
         },
         {
-            "randomState": 13,
+            "randomState": 15,
             "tickCount": 600,
             "type": "paint"
         },
         {
-            "randomState": 15,
+            "randomState": 17,
             "tickCount": 700,
             "type": "paint"
         },
@@ -196,7 +196,7 @@
             "type": "keyPress"
         },
         {
-            "randomState": 34,
+            "randomState": 35,
             "tickCount": 800,
             "type": "paint"
         },
