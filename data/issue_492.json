@@ -27,7 +27,18 @@
             "characters": [
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring of Speed [+3]",
+                        "Crossbow",
+                        "Leather Armor",
+                        "Crude Longsword",
+                        "Wetsuit",
+                        "Blaster [UNID]"
+                    ],
                     "endurance": 13,
+                    "equipment": [
+                        "Blaster [UNID]"
+                    ],
                     "hp": 50,
                     "intelligence": 5,
                     "luck": 7,
@@ -38,7 +49,18 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring",
+                        "Potion Bottle",
+                        "Dagger",
+                        "Wetsuit [UNID]",
+                        "Leather Armor",
+                        "Poppysnaps"
+                    ],
                     "endurance": 13,
+                    "equipment": [
+                        "Blaster [UNID]"
+                    ],
                     "hp": 43,
                     "intelligence": 9,
                     "luck": 13,
@@ -49,7 +71,17 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Brass Ring",
+                        "Heal",
+                        "Mace",
+                        "Wetsuit",
+                        "Leather Armor"
+                    ],
                     "endurance": 22,
+                    "equipment": [
+                        "Blaster [UNID]"
+                    ],
                     "hp": 37,
                     "intelligence": 9,
                     "luck": 7,
@@ -60,7 +92,18 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring",
+                        "Leather Armor",
+                        "Staff",
+                        "Fire Bolt",
+                        "Wetsuit",
+                        "Feather Fall"
+                    ],
                     "endurance": 13,
+                    "equipment": [
+                        "Blaster [UNID]"
+                    ],
                     "hp": 22,
                     "intelligence": 200,
                     "luck": 7,
@@ -82,7 +125,18 @@
             "characters": [
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring of Speed [+3]",
+                        "Crossbow",
+                        "Leather Armor",
+                        "Crude Longsword",
+                        "Wetsuit",
+                        "Blaster [UNID]"
+                    ],
                     "endurance": 13,
+                    "equipment": [
+                        "Blaster [UNID]"
+                    ],
                     "hp": 50,
                     "intelligence": 5,
                     "luck": 7,
@@ -93,7 +147,18 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring",
+                        "Potion Bottle",
+                        "Dagger",
+                        "Wetsuit [UNID]",
+                        "Leather Armor",
+                        "Poppysnaps"
+                    ],
                     "endurance": 13,
+                    "equipment": [
+                        "Blaster [UNID]"
+                    ],
                     "hp": 43,
                     "intelligence": 9,
                     "luck": 13,
@@ -104,7 +169,17 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Brass Ring",
+                        "Heal",
+                        "Mace",
+                        "Wetsuit",
+                        "Leather Armor"
+                    ],
                     "endurance": 22,
+                    "equipment": [
+                        "Blaster [UNID]"
+                    ],
                     "hp": 37,
                     "intelligence": 9,
                     "luck": 7,
@@ -115,7 +190,18 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring",
+                        "Leather Armor",
+                        "Staff",
+                        "Fire Bolt",
+                        "Wetsuit",
+                        "Feather Fall"
+                    ],
                     "endurance": 13,
+                    "equipment": [
+                        "Blaster [UNID]"
+                    ],
                     "hp": 22,
                     "intelligence": 200,
                     "luck": 7,

@@ -27,7 +27,15 @@
             "characters": [
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Crossbow"
+                    ],
                     "endurance": 13,
+                    "equipment": [
+                        "Crude Longsword",
+                        "Leather Armor"
+                    ],
                     "hp": 45,
                     "intelligence": 30,
                     "luck": 7,
@@ -38,7 +46,16 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Potion Bottle",
+                        "Phirna Root"
+                    ],
                     "endurance": 13,
+                    "equipment": [
+                        "Dagger",
+                        "Leather Armor"
+                    ],
                     "hp": 39,
                     "intelligence": 9,
                     "luck": 13,
@@ -49,7 +66,14 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Brass Ring"
+                    ],
                     "endurance": 22,
+                    "equipment": [
+                        "Mace",
+                        "Leather Armor"
+                    ],
                     "hp": 35,
                     "intelligence": 9,
                     "luck": 7,
@@ -60,7 +84,14 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring"
+                    ],
                     "endurance": 13,
+                    "equipment": [
+                        "Staff",
+                        "Leather Armor"
+                    ],
                     "hp": 22,
                     "intelligence": 30,
                     "luck": 7,
@@ -82,7 +113,15 @@
             "characters": [
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Crossbow"
+                    ],
                     "endurance": 13,
+                    "equipment": [
+                        "Crude Longsword",
+                        "Leather Armor"
+                    ],
                     "hp": 6,
                     "intelligence": 5,
                     "luck": 7,
@@ -93,7 +132,16 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Potion Bottle",
+                        "Phirna Root"
+                    ],
                     "endurance": 13,
+                    "equipment": [
+                        "Dagger",
+                        "Leather Armor"
+                    ],
                     "hp": 39,
                     "intelligence": 9,
                     "luck": 13,
@@ -104,7 +152,14 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Brass Ring"
+                    ],
                     "endurance": 22,
+                    "equipment": [
+                        "Mace",
+                        "Leather Armor"
+                    ],
                     "hp": 35,
                     "intelligence": 9,
                     "luck": 7,
@@ -115,7 +170,14 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring"
+                    ],
                     "endurance": 13,
+                    "equipment": [
+                        "Staff",
+                        "Leather Armor"
+                    ],
                     "hp": 22,
                     "intelligence": 30,
                     "luck": 7,

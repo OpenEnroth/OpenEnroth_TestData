@@ -27,7 +27,14 @@
             "characters": [
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring of the Fist [+1]",
+                        "Crossbow",
+                        "Leather Armor",
+                        "Crude Longsword"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": -3,
                     "intelligence": 5,
                     "luck": 7,
@@ -38,7 +45,15 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Potion Bottle",
+                        "Dagger",
+                        "Leather Armor",
+                        "Poppysnaps"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 3,
                     "intelligence": 9,
                     "luck": 13,
@@ -49,7 +64,14 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Pearl Ring of Stealing [+4]",
+                        "Heal",
+                        "Mace",
+                        "Leather Armor"
+                    ],
                     "endurance": 22,
+                    "equipment": [],
                     "hp": -1,
                     "intelligence": 9,
                     "luck": 7,
@@ -60,7 +82,15 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring of Health [+3]",
+                        "Leather Armor",
+                        "Staff",
+                        "Fire Bolt",
+                        "Feather Fall"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": -2,
                     "intelligence": 30,
                     "luck": 7,
@@ -82,7 +112,14 @@
             "characters": [
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring of the Fist [+1]",
+                        "Crossbow",
+                        "Leather Armor",
+                        "Crude Longsword"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 9,
                     "intelligence": 5,
                     "luck": 7,
@@ -93,7 +130,15 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Potion Bottle",
+                        "Dagger",
+                        "Leather Armor",
+                        "Poppysnaps"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 12,
                     "intelligence": 9,
                     "luck": 13,
@@ -104,7 +149,14 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Pearl Ring of Stealing [+4]",
+                        "Heal",
+                        "Mace",
+                        "Leather Armor"
+                    ],
                     "endurance": 22,
+                    "equipment": [],
                     "hp": 8,
                     "intelligence": 9,
                     "luck": 7,
@@ -115,7 +167,15 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring of Health [+3]",
+                        "Leather Armor",
+                        "Staff",
+                        "Fire Bolt",
+                        "Feather Fall"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 4,
                     "intelligence": 30,
                     "luck": 7,

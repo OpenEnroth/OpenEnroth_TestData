@@ -57,7 +57,16 @@
             "characters": [
                 {
                     "accuracy": 15,
+                    "backpack": [
+                        "Brass Ring",
+                        "Fire Bolt",
+                        "Club",
+                        "Staff",
+                        "Feather Fall",
+                        "Poison Spray"
+                    ],
                     "endurance": 25,
+                    "equipment": [],
                     "hp": 32,
                     "intelligence": 15,
                     "luck": 9,
@@ -68,7 +77,16 @@
                 },
                 {
                     "accuracy": 11,
+                    "backpack": [
+                        "Brass Ring",
+                        "Club",
+                        "Dagger",
+                        "Slow",
+                        "Potion Bottle",
+                        "Widowsweep Berries"
+                    ],
                     "endurance": 9,
+                    "equipment": [],
                     "hp": 18,
                     "intelligence": 11,
                     "luck": 9,
@@ -79,7 +97,16 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Club",
+                        "Dagger",
+                        "Slow",
+                        "Potion Bottle",
+                        "Poppysnaps"
+                    ],
                     "endurance": 14,
+                    "equipment": [],
                     "hp": 22,
                     "intelligence": 11,
                     "luck": 9,
@@ -90,7 +117,16 @@
                 },
                 {
                     "accuracy": 14,
+                    "backpack": [
+                        "Brass Ring",
+                        "Club",
+                        "Dagger",
+                        "Slow",
+                        "Potion Bottle",
+                        "Widowsweep Berries"
+                    ],
                     "endurance": 7,
+                    "equipment": [],
                     "hp": 16,
                     "intelligence": 14,
                     "luck": 9,
@@ -112,7 +148,16 @@
             "characters": [
                 {
                     "accuracy": 15,
+                    "backpack": [
+                        "Brass Ring",
+                        "Fire Bolt",
+                        "Club",
+                        "Staff",
+                        "Feather Fall",
+                        "Poison Spray"
+                    ],
                     "endurance": 25,
+                    "equipment": [],
                     "hp": 32,
                     "intelligence": 15,
                     "luck": 9,
@@ -123,7 +168,16 @@
                 },
                 {
                     "accuracy": 11,
+                    "backpack": [
+                        "Brass Ring",
+                        "Club",
+                        "Dagger",
+                        "Slow",
+                        "Potion Bottle",
+                        "Widowsweep Berries"
+                    ],
                     "endurance": 9,
+                    "equipment": [],
                     "hp": 18,
                     "intelligence": 11,
                     "luck": 9,
@@ -134,7 +188,16 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Club",
+                        "Dagger",
+                        "Slow",
+                        "Potion Bottle",
+                        "Poppysnaps"
+                    ],
                     "endurance": 14,
+                    "equipment": [],
                     "hp": 22,
                     "intelligence": 11,
                     "luck": 9,
@@ -145,7 +208,16 @@
                 },
                 {
                     "accuracy": 14,
+                    "backpack": [
+                        "Brass Ring",
+                        "Club",
+                        "Dagger",
+                        "Slow",
+                        "Potion Bottle",
+                        "Widowsweep Berries"
+                    ],
                     "endurance": 7,
+                    "equipment": [],
                     "hp": 16,
                     "intelligence": 14,
                     "luck": 9,

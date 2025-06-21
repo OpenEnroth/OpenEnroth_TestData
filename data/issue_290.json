@@ -57,7 +57,16 @@
             "characters": [
                 {
                     "accuracy": 73,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Crossbow",
+                        "Leather Armor",
+                        "Crude Longsword"
+                    ],
                     "endurance": 73,
+                    "equipment": [
+                        "Duelist Blade [UNID]"
+                    ],
                     "hp": 45,
                     "intelligence": 65,
                     "luck": 67,
@@ -68,7 +77,15 @@
                 },
                 {
                     "accuracy": 73,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Potion Bottle",
+                        "Dagger",
+                        "Leather Armor",
+                        "Phirna Root"
+                    ],
                     "endurance": 73,
+                    "equipment": [],
                     "hp": 39,
                     "intelligence": 69,
                     "luck": 73,
@@ -79,7 +96,14 @@
                 },
                 {
                     "accuracy": 67,
+                    "backpack": [
+                        "Brass Ring",
+                        "Heal",
+                        "Mace",
+                        "Leather Armor"
+                    ],
                     "endurance": 82,
+                    "equipment": [],
                     "hp": 35,
                     "intelligence": 69,
                     "luck": 67,
@@ -90,7 +114,16 @@
                 },
                 {
                     "accuracy": 73,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Leather Armor",
+                        "Iron Core Staff of The Unicorn [UNID]",
+                        "Staff",
+                        "Fire Bolt",
+                        "Feather Fall"
+                    ],
                     "endurance": 73,
+                    "equipment": [],
                     "hp": 22,
                     "intelligence": 90,
                     "luck": 67,
@@ -112,7 +145,16 @@
             "characters": [
                 {
                     "accuracy": 73,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Crossbow",
+                        "Leather Armor",
+                        "Crude Longsword"
+                    ],
                     "endurance": 73,
+                    "equipment": [
+                        "Duelist Blade [UNID]"
+                    ],
                     "hp": 45,
                     "intelligence": 65,
                     "luck": 67,
@@ -123,7 +165,15 @@
                 },
                 {
                     "accuracy": 73,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Potion Bottle",
+                        "Dagger",
+                        "Leather Armor",
+                        "Phirna Root"
+                    ],
                     "endurance": 73,
+                    "equipment": [],
                     "hp": 39,
                     "intelligence": 69,
                     "luck": 73,
@@ -134,7 +184,14 @@
                 },
                 {
                     "accuracy": 67,
+                    "backpack": [
+                        "Brass Ring",
+                        "Heal",
+                        "Mace",
+                        "Leather Armor"
+                    ],
                     "endurance": 82,
+                    "equipment": [],
                     "hp": 35,
                     "intelligence": 69,
                     "luck": 67,
@@ -145,7 +202,16 @@
                 },
                 {
                     "accuracy": 73,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Leather Armor",
+                        "Iron Core Staff of The Unicorn [UNID]",
+                        "Staff",
+                        "Fire Bolt",
+                        "Feather Fall"
+                    ],
                     "endurance": 73,
+                    "equipment": [],
                     "hp": 22,
                     "intelligence": 90,
                     "luck": 67,
