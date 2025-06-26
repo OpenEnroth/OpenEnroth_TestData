@@ -27,7 +27,23 @@
             "characters": [
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring of Might [+3]",
+                        "Leather Armor",
+                        "Leather Armor",
+                        "Leather Armor",
+                        "Potion Bottle",
+                        "Crude Longsword",
+                        "Fire Bolt",
+                        "Mace",
+                        "Dagger",
+                        "Heal",
+                        "Leather Armor"
+                    ],
                     "endurance": 13,
+                    "equipment": [
+                        "Crossbow"
+                    ],
                     "hp": 45,
                     "intelligence": 5,
                     "luck": 7,
@@ -38,7 +54,12 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring of Items [+2]",
+                        "Poppysnaps"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 39,
                     "intelligence": 9,
                     "luck": 13,
@@ -49,7 +70,11 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Brass Ring of Magic [+2]"
+                    ],
                     "endurance": 22,
+                    "equipment": [],
                     "hp": 35,
                     "intelligence": 9,
                     "luck": 7,
@@ -60,7 +85,12 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Staff"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 22,
                     "intelligence": 30,
                     "luck": 7,
@@ -82,7 +112,23 @@
             "characters": [
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring of Might [+3]",
+                        "Leather Armor",
+                        "Leather Armor",
+                        "Leather Armor",
+                        "Potion Bottle",
+                        "Crude Longsword",
+                        "Fire Bolt",
+                        "Mace",
+                        "Dagger",
+                        "Heal",
+                        "Leather Armor"
+                    ],
                     "endurance": 13,
+                    "equipment": [
+                        "Crossbow"
+                    ],
                     "hp": 45,
                     "intelligence": 5,
                     "luck": 7,
@@ -93,7 +139,12 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring of Items [+2]",
+                        "Poppysnaps"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 39,
                     "intelligence": 9,
                     "luck": 13,
@@ -104,7 +155,11 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Brass Ring of Magic [+2]"
+                    ],
                     "endurance": 22,
+                    "equipment": [],
                     "hp": 35,
                     "intelligence": 9,
                     "luck": 7,
@@ -115,7 +170,12 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Staff"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 22,
                     "intelligence": 30,
                     "luck": 7,

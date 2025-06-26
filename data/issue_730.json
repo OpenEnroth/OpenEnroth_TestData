@@ -42,7 +42,13 @@
             "characters": [
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring",
+                        "Crossbow",
+                        "Crude Longsword"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 45,
                     "intelligence": 5,
                     "luck": 7,
@@ -53,7 +59,14 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring",
+                        "Potion Bottle",
+                        "Dagger",
+                        "Widowsweep Berries"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 39,
                     "intelligence": 9,
                     "luck": 13,
@@ -64,7 +77,13 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Brass Ring",
+                        "Heal",
+                        "Mace"
+                    ],
                     "endurance": 22,
+                    "equipment": [],
                     "hp": 35,
                     "intelligence": 9,
                     "luck": 7,
@@ -75,7 +94,23 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring",
+                        "Pearl Ring [UNID]",
+                        "Longbow [UNID]",
+                        "Crude Longsword [UNID]",
+                        "Staff",
+                        "Wooden Buckler [UNID]",
+                        "Leather Cloak [UNID]",
+                        "Fire Bolt",
+                        "Contestant's Shield",
+                        "Feather Fall",
+                        "Steel Gauntlets [UNID]",
+                        "Journal Fragment",
+                        "Blue Quartz"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 22,
                     "intelligence": 30,
                     "luck": 7,
@@ -97,7 +132,14 @@
             "characters": [
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring",
+                        "Crossbow",
+                        "Leather Armor",
+                        "Crude Longsword"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 45,
                     "intelligence": 5,
                     "luck": 7,
@@ -108,7 +150,15 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring",
+                        "Potion Bottle",
+                        "Dagger",
+                        "Leather Armor",
+                        "Widowsweep Berries"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 39,
                     "intelligence": 9,
                     "luck": 13,
@@ -119,7 +169,14 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Brass Ring",
+                        "Heal",
+                        "Mace",
+                        "Leather Armor"
+                    ],
                     "endurance": 22,
+                    "equipment": [],
                     "hp": 35,
                     "intelligence": 9,
                     "luck": 7,
@@ -130,7 +187,24 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring",
+                        "Leather Armor",
+                        "Pearl Ring [UNID]",
+                        "Longbow [UNID]",
+                        "Crude Longsword [UNID]",
+                        "Staff",
+                        "Wooden Buckler [UNID]",
+                        "Leather Cloak [UNID]",
+                        "Fire Bolt",
+                        "Contestant's Shield",
+                        "Feather Fall",
+                        "Steel Gauntlets [UNID]",
+                        "Journal Fragment",
+                        "Blue Quartz"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 22,
                     "intelligence": 30,
                     "luck": 7,

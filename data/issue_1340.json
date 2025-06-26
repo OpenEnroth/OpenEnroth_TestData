@@ -62,7 +62,14 @@
             "characters": [
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Crossbow",
+                        "Leather Armor",
+                        "Crude Longsword"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 45,
                     "intelligence": 5,
                     "luck": 7,
@@ -73,7 +80,18 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring of Disarming [+2]",
+                        "Potion Bottle",
+                        "Dagger",
+                        "Letter to Hairbaugh [UNID]",
+                        "Meteorite Fragment",
+                        "Leather Armor",
+                        "Widowsweep Berries",
+                        "Amythest"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 39,
                     "intelligence": 9,
                     "luck": 13,
@@ -84,7 +102,14 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Pearl Ring of Luck [+3]",
+                        "Heal",
+                        "Mace",
+                        "Leather Armor"
+                    ],
                     "endurance": 22,
+                    "equipment": [],
                     "hp": 35,
                     "intelligence": 9,
                     "luck": 7,
@@ -95,7 +120,15 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring of Precision [+2]",
+                        "Leather Armor",
+                        "Staff",
+                        "Fire Bolt",
+                        "Feather Fall"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 22,
                     "intelligence": 30,
                     "luck": 7,
@@ -117,7 +150,14 @@
             "characters": [
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Crossbow",
+                        "Leather Armor",
+                        "Crude Longsword"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 45,
                     "intelligence": 5,
                     "luck": 7,
@@ -128,7 +168,15 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring of Disarming [+2]",
+                        "Potion Bottle",
+                        "Dagger",
+                        "Leather Armor",
+                        "Widowsweep Berries"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 39,
                     "intelligence": 9,
                     "luck": 13,
@@ -139,7 +187,14 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Pearl Ring of Luck [+3]",
+                        "Heal",
+                        "Mace",
+                        "Leather Armor"
+                    ],
                     "endurance": 22,
+                    "equipment": [],
                     "hp": 35,
                     "intelligence": 9,
                     "luck": 7,
@@ -150,7 +205,15 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring of Precision [+2]",
+                        "Leather Armor",
+                        "Staff",
+                        "Fire Bolt",
+                        "Feather Fall"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 22,
                     "intelligence": 30,
                     "luck": 7,

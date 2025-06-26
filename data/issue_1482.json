@@ -32,7 +32,20 @@
             "characters": [
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Crossbow",
+                        "Leather Armor",
+                        "Alacorn Wand of Blades [0/0] [UNID]",
+                        "Crude Longsword",
+                        "Alacorn Wand of Fireballs [0/0] [UNID]",
+                        "War Hammer [UNID]",
+                        "Wand of Stunning [0/0] [UNID]",
+                        "Scroll of Shrapmetal [UNID]",
+                        "Yellow Topaz [UNID]"
+                    ],
                     "endurance": 630,
+                    "equipment": [],
                     "hp": 154,
                     "intelligence": 25,
                     "luck": 9,
@@ -43,7 +56,15 @@
                 },
                 {
                     "accuracy": 11,
+                    "backpack": [
+                        "Brass Ring of Might [+5]",
+                        "Potion Bottle",
+                        "Dagger",
+                        "Leather Armor",
+                        "Poppysnaps"
+                    ],
                     "endurance": 9,
+                    "equipment": [],
                     "hp": -9,
                     "intelligence": 11,
                     "luck": 9,
@@ -54,7 +75,14 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Brass Ring",
+                        "Heal",
+                        "Mace",
+                        "Leather Armor"
+                    ],
                     "endurance": 14,
+                    "equipment": [],
                     "hp": -41,
                     "intelligence": 11,
                     "luck": 9,
@@ -65,7 +93,15 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Leather Armor",
+                        "Staff",
+                        "Fire Bolt",
+                        "Feather Fall"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": -34,
                     "intelligence": 30,
                     "luck": 7,
@@ -87,7 +123,20 @@
             "characters": [
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Crossbow",
+                        "Leather Armor",
+                        "Alacorn Wand of Blades [0/0] [UNID]",
+                        "Crude Longsword",
+                        "Alacorn Wand of Fireballs [0/0] [UNID]",
+                        "War Hammer [UNID]",
+                        "Wand of Stunning [0/0] [UNID]",
+                        "Scroll of Shrapmetal [UNID]",
+                        "Yellow Topaz [UNID]"
+                    ],
                     "endurance": 630,
+                    "equipment": [],
                     "hp": 104,
                     "intelligence": 25,
                     "luck": 9,
@@ -98,7 +147,15 @@
                 },
                 {
                     "accuracy": 11,
+                    "backpack": [
+                        "Brass Ring of Might [+5]",
+                        "Potion Bottle",
+                        "Dagger",
+                        "Leather Armor",
+                        "Poppysnaps"
+                    ],
                     "endurance": 9,
+                    "equipment": [],
                     "hp": -9,
                     "intelligence": 11,
                     "luck": 9,
@@ -109,7 +166,14 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Brass Ring",
+                        "Heal",
+                        "Mace",
+                        "Leather Armor"
+                    ],
                     "endurance": 14,
+                    "equipment": [],
                     "hp": -41,
                     "intelligence": 11,
                     "luck": 9,
@@ -120,7 +184,15 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Leather Armor",
+                        "Staff",
+                        "Fire Bolt",
+                        "Feather Fall"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": -34,
                     "intelligence": 30,
                     "luck": 7,

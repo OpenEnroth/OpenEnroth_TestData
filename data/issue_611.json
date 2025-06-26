@@ -47,7 +47,15 @@
             "characters": [
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Crossbow",
+                        "Leather Armor",
+                        "Crude Longsword",
+                        "Club"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 45,
                     "intelligence": 5,
                     "luck": 7,
@@ -58,7 +66,16 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Potion Bottle",
+                        "Club",
+                        "Dagger",
+                        "Leather Armor",
+                        "Poppysnaps"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 39,
                     "intelligence": 9,
                     "luck": 13,
@@ -69,7 +86,15 @@
                 },
                 {
                     "accuracy": 3,
+                    "backpack": [
+                        "Pearl Ring of Speed [+1]",
+                        "Heal",
+                        "Club",
+                        "Mace",
+                        "Leather Armor"
+                    ],
                     "endurance": 22,
+                    "equipment": [],
                     "hp": 35,
                     "intelligence": 0,
                     "luck": 7,
@@ -80,7 +105,16 @@
                 },
                 {
                     "accuracy": 6,
+                    "backpack": [
+                        "Brass Ring of Air Resistance [+1]",
+                        "Leather Armor",
+                        "Staff",
+                        "Fire Bolt",
+                        "Club",
+                        "Feather Fall"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 22,
                     "intelligence": 0,
                     "luck": 7,
@@ -102,7 +136,15 @@
             "characters": [
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Crossbow",
+                        "Leather Armor",
+                        "Crude Longsword",
+                        "Club"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 17,
                     "intelligence": 5,
                     "luck": 7,
@@ -113,7 +155,16 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Potion Bottle",
+                        "Club",
+                        "Dagger",
+                        "Leather Armor",
+                        "Poppysnaps"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 21,
                     "intelligence": 9,
                     "luck": 13,
@@ -124,7 +175,15 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Pearl Ring of Speed [+1]",
+                        "Heal",
+                        "Club",
+                        "Mace",
+                        "Leather Armor"
+                    ],
                     "endurance": 22,
+                    "equipment": [],
                     "hp": -1,
                     "intelligence": 9,
                     "luck": 7,
@@ -135,7 +194,16 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring of Air Resistance [+1]",
+                        "Leather Armor",
+                        "Staff",
+                        "Fire Bolt",
+                        "Club",
+                        "Feather Fall"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": -2,
                     "intelligence": 30,
                     "luck": 7,

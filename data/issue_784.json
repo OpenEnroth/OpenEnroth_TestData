@@ -47,7 +47,11 @@
             "characters": [
                 {
                     "accuracy": 238,
+                    "backpack": [
+                        "Sacrifice [UNID]"
+                    ],
                     "endurance": 238,
+                    "equipment": [],
                     "hp": 45,
                     "intelligence": 230,
                     "luck": 232,
@@ -58,7 +62,17 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring of Earth Resistance [+1]",
+                        "Potion Bottle",
+                        "Crude Longsword",
+                        "Dagger",
+                        "Brass Ring",
+                        "Leather Armor",
+                        "Widowsweep Berries"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 39,
                     "intelligence": 9,
                     "luck": 13,
@@ -69,7 +83,16 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Brass Ring",
+                        "Heal",
+                        "Leather Armor",
+                        "Crossbow",
+                        "Mace",
+                        "Leather Armor"
+                    ],
                     "endurance": 22,
+                    "equipment": [],
                     "hp": 35,
                     "intelligence": 9,
                     "luck": 7,
@@ -80,7 +103,15 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Leather Armor",
+                        "Staff",
+                        "Fire Bolt",
+                        "Feather Fall"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 22,
                     "intelligence": 30,
                     "luck": 7,
@@ -102,7 +133,31 @@
             "characters": [
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Sacrifice [UNID]",
+                        "Water Breathing Potion [75]",
+                        "Endurance Boost Potion [75]",
+                        "Fire Resistance Potion [75]",
+                        "Mind Resistance Potion [75]",
+                        "Haste Potion [75]",
+                        "Preservation Potion [75]",
+                        "Might Boost Potion [75]",
+                        "Speed Boost Potion [75]",
+                        "Air Resistance Potion [75]",
+                        "Body Resistance Potion [75]",
+                        "Heroism Potion [75]",
+                        "Shield Potion [75]",
+                        "Intellect Boost Potion [75]",
+                        "Accuracy Boost Potion [75]",
+                        "Water Resistance Potion [75]",
+                        "Bless Potion [75]",
+                        "Stoneskin Potion [75]",
+                        "Personality Boost Potion [75]",
+                        "Luck Boost Potion [75]",
+                        "Earth Resistance Potion [75]"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 45,
                     "intelligence": 5,
                     "luck": 7,
@@ -113,7 +168,17 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Brass Ring of Earth Resistance [+1]",
+                        "Potion Bottle",
+                        "Crude Longsword",
+                        "Dagger",
+                        "Brass Ring",
+                        "Leather Armor",
+                        "Widowsweep Berries"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 39,
                     "intelligence": 9,
                     "luck": 13,
@@ -124,7 +189,16 @@
                 },
                 {
                     "accuracy": 7,
+                    "backpack": [
+                        "Brass Ring",
+                        "Heal",
+                        "Leather Armor",
+                        "Crossbow",
+                        "Mace",
+                        "Leather Armor"
+                    ],
                     "endurance": 22,
+                    "equipment": [],
                     "hp": 35,
                     "intelligence": 9,
                     "luck": 7,
@@ -135,7 +209,15 @@
                 },
                 {
                     "accuracy": 13,
+                    "backpack": [
+                        "Pearl Ring",
+                        "Leather Armor",
+                        "Staff",
+                        "Fire Bolt",
+                        "Feather Fall"
+                    ],
                     "endurance": 13,
+                    "equipment": [],
                     "hp": 22,
                     "intelligence": 30,
                     "luck": 7,
