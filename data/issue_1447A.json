@@ -1449,21 +1449,9 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "SHIFT",
-            "mods": "shift|ctrl|num",
-            "type": "keyPress"
-        },
-        {
             "randomState": 110,
             "tickCount": 6250,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": true,
-            "key": "SHIFT",
-            "mods": "shift|ctrl|num",
-            "type": "keyPress"
         },
         {
             "randomState": 114,
@@ -1471,21 +1459,9 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "SHIFT",
-            "mods": "shift|ctrl|num",
-            "type": "keyPress"
-        },
-        {
             "randomState": 114,
             "tickCount": 6350,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": true,
-            "key": "SHIFT",
-            "mods": "shift|ctrl|num",
-            "type": "keyPress"
         },
         {
             "randomState": 114,

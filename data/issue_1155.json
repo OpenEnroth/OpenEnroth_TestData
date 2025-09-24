@@ -1736,21 +1736,9 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "SHIFT",
-            "mods": "shift|ctrl|num",
-            "type": "keyPress"
-        },
-        {
             "randomState": 1030079,
             "tickCount": 10600,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": true,
-            "key": "SHIFT",
-            "mods": "shift|ctrl|num",
-            "type": "keyPress"
         },
         {
             "randomState": 79656,

@@ -512,12 +512,6 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "CONTROL",
-            "mods": "shift|ctrl|num",
-            "type": "keyPress"
-        },
-        {
             "randomState": 1005889,
             "tickCount": 3600,
             "type": "paint"

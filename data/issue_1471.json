@@ -3941,12 +3941,6 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "CONTROL",
-            "mods": "ctrl",
-            "type": "keyPress"
-        },
-        {
             "randomState": 72918,
             "tickCount": 16500,
             "type": "paint"
@@ -4006,12 +4000,6 @@
             "randomState": 72918,
             "tickCount": 17000,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": true,
-            "key": "SHIFT",
-            "mods": "shift|ctrl",
-            "type": "keyPress"
         },
         {
             "randomState": 72918,

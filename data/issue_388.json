@@ -6958,12 +6958,6 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "SHIFT",
-            "mods": "shift|ctrl|num",
-            "type": "keyPress"
-        },
-        {
             "randomState": 327,
             "tickCount": 12704,
             "type": "paint"
