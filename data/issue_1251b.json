@@ -884,18 +884,6 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": false,
-            "key": "LEFT",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "LEFT",
-            "mods": "num",
-            "type": "keyRelease"
-        },
-        {
             "randomState": 442248,
             "tickCount": 2250,
             "type": "paint"

@@ -323,18 +323,6 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": false,
-            "key": "RIGHT",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "RIGHT",
-            "mods": "num",
-            "type": "keyRelease"
-        },
-        {
             "randomState": 854299,
             "tickCount": 1900,
             "type": "paint"
@@ -348,18 +336,6 @@
             "randomState": 854299,
             "tickCount": 2100,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "LEFT",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "LEFT",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "randomState": 854299,

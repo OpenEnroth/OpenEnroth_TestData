@@ -881,19 +881,7 @@
         },
         {
             "isAutoRepeat": false,
-            "key": "A",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
-            "isAutoRepeat": false,
             "key": "DELETE",
-            "mods": "num",
-            "type": "keyRelease"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "A",
             "mods": "num",
             "type": "keyRelease"
         },
@@ -942,18 +930,6 @@
             "randomState": 201,
             "tickCount": 2700,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "RIGHT",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "RIGHT",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "randomState": 237,

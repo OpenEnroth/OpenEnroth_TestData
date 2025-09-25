@@ -252,18 +252,6 @@
             "type": "keyRelease"
         },
         {
-            "isAutoRepeat": false,
-            "key": "DOWN",
-            "mods": "0",
-            "type": "keyPress"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "DOWN",
-            "mods": "0",
-            "type": "keyRelease"
-        },
-        {
             "randomState": 1,
             "tickCount": 750,
             "type": "paint"

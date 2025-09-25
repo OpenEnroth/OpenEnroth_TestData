@@ -1395,19 +1395,7 @@
         },
         {
             "isAutoRepeat": false,
-            "key": "A",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
-            "isAutoRepeat": false,
             "key": "LEFT",
-            "mods": "num",
-            "type": "keyRelease"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "A",
             "mods": "num",
             "type": "keyRelease"
         },
@@ -1601,19 +1589,7 @@
         },
         {
             "isAutoRepeat": false,
-            "key": "A",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
-            "isAutoRepeat": false,
             "key": "LEFT",
-            "mods": "num",
-            "type": "keyRelease"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "A",
             "mods": "num",
             "type": "keyRelease"
         },
@@ -1641,18 +1617,6 @@
         {
             "isAutoRepeat": false,
             "key": "A",
-            "mods": "num",
-            "type": "keyRelease"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "LEFT",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "LEFT",
             "mods": "num",
             "type": "keyRelease"
         },
@@ -1696,19 +1660,7 @@
         },
         {
             "isAutoRepeat": false,
-            "key": "A",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
-            "isAutoRepeat": false,
             "key": "LEFT",
-            "mods": "num",
-            "type": "keyRelease"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "A",
             "mods": "num",
             "type": "keyRelease"
         },

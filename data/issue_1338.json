@@ -1040,18 +1040,6 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": false,
-            "key": "LEFT",
-            "mods": "0",
-            "type": "keyPress"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "LEFT",
-            "mods": "0",
-            "type": "keyRelease"
-        },
-        {
             "randomState": 224,
             "tickCount": 7400,
             "type": "paint"
