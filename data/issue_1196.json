@@ -565,12 +565,6 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "DELETE",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
             "randomState": 190,
             "tickCount": 3300,
             "type": "paint"

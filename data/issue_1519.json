@@ -1262,21 +1262,9 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "SHIFT",
-            "mods": "shift|ctrl|num",
-            "type": "keyPress"
-        },
-        {
             "randomState": 259887,
             "tickCount": 5750,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": true,
-            "key": "SHIFT",
-            "mods": "shift|ctrl|num",
-            "type": "keyPress"
         },
         {
             "randomState": 354124,

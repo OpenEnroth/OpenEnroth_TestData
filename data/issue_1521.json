@@ -421,21 +421,9 @@
     },
     "trace": [
         {
-            "isAutoRepeat": false,
-            "key": "SHIFT",
-            "mods": "ctrl|num",
-            "type": "keyRelease"
-        },
-        {
             "randomState": 854299,
             "tickCount": 100,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "CONTROL",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "button": "none",

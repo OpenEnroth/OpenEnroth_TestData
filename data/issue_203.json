@@ -2295,24 +2295,12 @@
             "type": "keyPress"
         },
         {
-            "isAutoRepeat": true,
-            "key": "CONTROL",
-            "mods": "ctrl",
-            "type": "keyPress"
-        },
-        {
             "randomState": 1,
             "tickCount": 3504,
             "type": "paint"
         },
         {
             "isAutoRepeat": false,
-            "key": "SHIFT",
-            "mods": "shift|ctrl",
-            "type": "keyPress"
-        },
-        {
-            "isAutoRepeat": true,
             "key": "SHIFT",
             "mods": "shift|ctrl",
             "type": "keyPress"

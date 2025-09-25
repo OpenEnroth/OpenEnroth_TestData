@@ -4439,24 +4439,12 @@
             "type": "keyPress"
         },
         {
-            "isAutoRepeat": true,
-            "key": "CONTROL",
-            "mods": "ctrl",
-            "type": "keyPress"
-        },
-        {
             "randomState": 75,
             "tickCount": 6944,
             "type": "paint"
         },
         {
             "isAutoRepeat": false,
-            "key": "SHIFT",
-            "mods": "shift|ctrl",
-            "type": "keyPress"
-        },
-        {
-            "isAutoRepeat": true,
             "key": "SHIFT",
             "mods": "shift|ctrl",
             "type": "keyPress"

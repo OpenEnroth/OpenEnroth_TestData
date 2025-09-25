@@ -531,12 +531,6 @@
             "type": "keyPress"
         },
         {
-            "isAutoRepeat": true,
-            "key": "SHIFT",
-            "mods": "shift",
-            "type": "keyPress"
-        },
-        {
             "isAutoRepeat": false,
             "key": "CONTROL",
             "mods": "shift|ctrl",
@@ -551,12 +545,6 @@
             "randomState": 2955,
             "tickCount": 6800,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": true,
-            "key": "SHIFT",
-            "mods": "shift|ctrl",
-            "type": "keyPress"
         },
         {
             "isAutoRepeat": false,

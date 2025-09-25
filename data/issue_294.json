@@ -365,12 +365,6 @@
             "type": "keyPress"
         },
         {
-            "isAutoRepeat": true,
-            "key": "SHIFT",
-            "mods": "shift",
-            "type": "keyPress"
-        },
-        {
             "isAutoRepeat": false,
             "key": "CONTROL",
             "mods": "shift|ctrl",

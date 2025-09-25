@@ -857,21 +857,9 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "A",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
             "randomState": 344,
             "tickCount": 4900,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": true,
-            "key": "A",
-            "mods": "num",
-            "type": "keyPress"
         },
         {
             "button": "none",
@@ -899,21 +887,9 @@
             "type": "mouseMove"
         },
         {
-            "isAutoRepeat": true,
-            "key": "A",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
             "randomState": 352,
             "tickCount": 5100,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": true,
-            "key": "A",
-            "mods": "num",
-            "type": "keyPress"
         },
         {
             "randomState": 352,
@@ -921,21 +897,9 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "A",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
             "randomState": 354,
             "tickCount": 5300,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": true,
-            "key": "A",
-            "mods": "num",
-            "type": "keyPress"
         },
         {
             "randomState": 354,
@@ -943,21 +907,9 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "A",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
             "randomState": 354,
             "tickCount": 5500,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": true,
-            "key": "A",
-            "mods": "num",
-            "type": "keyPress"
         },
         {
             "randomState": 354,
@@ -1067,21 +1019,9 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "A",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
             "randomState": 450,
             "tickCount": 6900,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": true,
-            "key": "A",
-            "mods": "num",
-            "type": "keyPress"
         },
         {
             "isAutoRepeat": false,
@@ -1455,19 +1395,7 @@
         },
         {
             "isAutoRepeat": false,
-            "key": "A",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
-            "isAutoRepeat": false,
             "key": "LEFT",
-            "mods": "num",
-            "type": "keyRelease"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "A",
             "mods": "num",
             "type": "keyRelease"
         },
@@ -1661,19 +1589,7 @@
         },
         {
             "isAutoRepeat": false,
-            "key": "A",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
-            "isAutoRepeat": false,
             "key": "LEFT",
-            "mods": "num",
-            "type": "keyRelease"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "A",
             "mods": "num",
             "type": "keyRelease"
         },
@@ -1701,18 +1617,6 @@
         {
             "isAutoRepeat": false,
             "key": "A",
-            "mods": "num",
-            "type": "keyRelease"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "LEFT",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "LEFT",
             "mods": "num",
             "type": "keyRelease"
         },
@@ -1756,19 +1660,7 @@
         },
         {
             "isAutoRepeat": false,
-            "key": "A",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
-            "isAutoRepeat": false,
             "key": "LEFT",
-            "mods": "num",
-            "type": "keyRelease"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "A",
             "mods": "num",
             "type": "keyRelease"
         },

@@ -2806,12 +2806,6 @@
             "type": "keyPress"
         },
         {
-            "isAutoRepeat": true,
-            "key": "SHIFT",
-            "mods": "shift",
-            "type": "keyPress"
-        },
-        {
             "randomState": 250,
             "tickCount": 5584,
             "type": "paint"
@@ -2838,12 +2832,6 @@
         },
         {
             "isAutoRepeat": false,
-            "key": "CONTROL",
-            "mods": "shift|ctrl",
-            "type": "keyPress"
-        },
-        {
-            "isAutoRepeat": true,
             "key": "CONTROL",
             "mods": "shift|ctrl",
             "type": "keyPress"

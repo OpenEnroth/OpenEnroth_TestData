@@ -225,18 +225,6 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": false,
-            "key": "SHIFT",
-            "mods": "ctrl|num",
-            "type": "keyRelease"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "CONTROL",
-            "mods": "num",
-            "type": "keyRelease"
-        },
-        {
             "randomState": 573802,
             "tickCount": 200,
             "type": "paint"
@@ -613,21 +601,9 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "UP",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
             "randomState": 979632,
             "tickCount": 4600,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": true,
-            "key": "UP",
-            "mods": "num",
-            "type": "keyPress"
         },
         {
             "randomState": 979632,
@@ -635,21 +611,9 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "UP",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
             "randomState": 979632,
             "tickCount": 4800,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": true,
-            "key": "UP",
-            "mods": "num",
-            "type": "keyPress"
         },
         {
             "randomState": 979632,

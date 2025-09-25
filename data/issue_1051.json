@@ -1363,12 +1363,6 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "UP",
-            "mods": "0",
-            "type": "keyPress"
-        },
-        {
             "randomState": 380,
             "tickCount": 2235,
             "type": "paint"
@@ -1399,12 +1393,6 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "UP",
-            "mods": "0",
-            "type": "keyPress"
-        },
-        {
             "randomState": 395,
             "tickCount": 2325,
             "type": "paint"
@@ -1428,12 +1416,6 @@
             "randomState": 404,
             "tickCount": 2385,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": true,
-            "key": "UP",
-            "mods": "0",
-            "type": "keyPress"
         },
         {
             "randomState": 407,
@@ -1464,12 +1446,6 @@
             "randomState": 411,
             "tickCount": 2475,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": true,
-            "key": "UP",
-            "mods": "0",
-            "type": "keyPress"
         },
         {
             "randomState": 414,
@@ -2130,12 +2106,6 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "RIGHT",
-            "mods": "0",
-            "type": "keyPress"
-        },
-        {
             "randomState": 813,
             "tickCount": 4320,
             "type": "paint"
@@ -2166,12 +2136,6 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "RIGHT",
-            "mods": "0",
-            "type": "keyPress"
-        },
-        {
             "randomState": 818,
             "tickCount": 4410,
             "type": "paint"
@@ -2195,12 +2159,6 @@
             "randomState": 834,
             "tickCount": 4470,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": true,
-            "key": "RIGHT",
-            "mods": "0",
-            "type": "keyPress"
         },
         {
             "randomState": 834,

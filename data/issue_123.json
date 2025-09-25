@@ -286,12 +286,6 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "PAGE UP",
-            "mods": "0",
-            "type": "keyPress"
-        },
-        {
             "isAutoRepeat": false,
             "key": "PAGE UP",
             "mods": "0",
@@ -349,32 +343,14 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "PAGE UP",
-            "mods": "0",
-            "type": "keyPress"
-        },
-        {
             "randomState": 147,
             "tickCount": 2300,
             "type": "paint"
         },
         {
-            "isAutoRepeat": true,
-            "key": "PAGE UP",
-            "mods": "0",
-            "type": "keyPress"
-        },
-        {
             "randomState": 147,
             "tickCount": 2400,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": true,
-            "key": "PAGE UP",
-            "mods": "0",
-            "type": "keyPress"
         },
         {
             "isAutoRepeat": false,
