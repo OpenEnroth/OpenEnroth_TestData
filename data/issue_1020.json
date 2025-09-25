@@ -296,12 +296,6 @@
     },
     "trace": [
         {
-            "isAutoRepeat": false,
-            "key": "CONTROL",
-            "mods": "0",
-            "type": "keyRelease"
-        },
-        {
             "randomState": 1,
             "tickCount": 50,
             "type": "paint"

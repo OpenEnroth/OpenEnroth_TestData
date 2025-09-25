@@ -240,12 +240,6 @@
             "type": "mouseMove"
         },
         {
-            "isAutoRepeat": false,
-            "key": "CONTROL",
-            "mods": "shift|num",
-            "type": "keyRelease"
-        },
-        {
             "button": "none",
             "buttons": "none",
             "isDoubleClick": false,
@@ -254,12 +248,6 @@
                 "y": 436
             },
             "type": "mouseMove"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "SHIFT",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "button": "none",

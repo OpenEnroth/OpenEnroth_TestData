@@ -638,12 +638,6 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": false,
-            "key": "CONTROL",
-            "mods": "num",
-            "type": "keyRelease"
-        },
-        {
             "randomState": 663076,
             "tickCount": 200,
             "type": "paint"
