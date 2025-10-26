@@ -3884,18 +3884,6 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": false,
-            "key": "UP",
-            "mods": "num",
-            "type": "keyRelease"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "UP",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
             "randomState": 636821,
             "tickCount": 47900,
             "type": "paint"
