@@ -694,6 +694,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "RETURN",
+            "mods": "num",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 195950,
             "tickCount": 1200,
             "type": "paint"
@@ -722,12 +728,6 @@
                 "y": 83
             },
             "type": "mouseMove"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "RETURN",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "button": "none",

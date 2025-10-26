@@ -263,15 +263,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 36,
-            "tickCount": 900,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "R",
             "mods": "0",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 36,
+            "tickCount": 900,
+            "type": "paint"
         },
         {
             "randomState": 36,

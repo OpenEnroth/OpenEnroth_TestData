@@ -526,6 +526,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "HOME",
+            "mods": "num",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 41,
             "tickCount": 1040,
             "type": "paint"
@@ -549,12 +555,6 @@
             "randomState": 41,
             "tickCount": 1104,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "HOME",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "randomState": 41,

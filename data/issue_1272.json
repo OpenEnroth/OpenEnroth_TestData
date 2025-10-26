@@ -241,15 +241,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 1,
-            "tickCount": 600,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "X",
             "mods": "0",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 1,
+            "tickCount": 600,
+            "type": "paint"
         },
         {
             "randomState": 1,

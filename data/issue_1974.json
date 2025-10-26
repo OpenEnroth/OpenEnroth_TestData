@@ -808,15 +808,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 595404,
-            "tickCount": 4500,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "X",
             "mods": "num",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 595404,
+            "tickCount": 4500,
+            "type": "paint"
         },
         {
             "randomState": 369898,

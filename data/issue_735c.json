@@ -283,15 +283,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 43,
-            "tickCount": 1100,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "SPACE",
             "mods": "0",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 43,
+            "tickCount": 1100,
+            "type": "paint"
         },
         {
             "randomState": 43,

@@ -261,6 +261,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "SPACE",
+            "mods": "0",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 112,
             "tickCount": 450,
             "type": "paint"
@@ -274,12 +280,6 @@
             "randomState": 112,
             "tickCount": 550,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "SPACE",
-            "mods": "0",
-            "type": "keyRelease"
         },
         {
             "randomState": 112,

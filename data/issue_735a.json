@@ -2134,15 +2134,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 4606,
-            "tickCount": 24200,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "C",
             "mods": "0",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 4606,
+            "tickCount": 24200,
+            "type": "paint"
         },
         {
             "randomState": 4606,

@@ -818,15 +818,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 428585,
-            "tickCount": 600,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "SPACE",
             "mods": "0",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 428585,
+            "tickCount": 600,
+            "type": "paint"
         },
         {
             "randomState": 428585,

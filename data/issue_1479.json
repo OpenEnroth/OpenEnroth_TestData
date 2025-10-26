@@ -417,15 +417,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 49,
-            "tickCount": 1200,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "3",
             "mods": "0",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 49,
+            "tickCount": 1200,
+            "type": "paint"
         },
         {
             "randomState": 49,

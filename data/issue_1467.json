@@ -1615,15 +1615,15 @@
             "type": "mouseMove"
         },
         {
-            "randomState": 65,
-            "tickCount": 7400,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "ESCAPE",
             "mods": "0",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 65,
+            "tickCount": 7400,
+            "type": "paint"
         },
         {
             "randomState": 107,

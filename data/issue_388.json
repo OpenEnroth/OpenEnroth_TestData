@@ -4839,6 +4839,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "ESCAPE",
+            "mods": "num",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 159,
             "tickCount": 8432,
             "type": "paint"
@@ -4852,12 +4858,6 @@
             "randomState": 159,
             "tickCount": 8464,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "ESCAPE",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "randomState": 159,
@@ -4966,6 +4966,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "ESCAPE",
+            "mods": "num",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 159,
             "tickCount": 8704,
             "type": "paint"
@@ -4989,12 +4995,6 @@
             "randomState": 159,
             "tickCount": 8768,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "ESCAPE",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "randomState": 159,
@@ -5133,6 +5133,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "ESCAPE",
+            "mods": "num",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 159,
             "tickCount": 9200,
             "type": "paint"
@@ -5161,12 +5167,6 @@
             "randomState": 159,
             "tickCount": 9280,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "ESCAPE",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "randomState": 159,
@@ -5520,6 +5520,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "ESCAPE",
+            "mods": "num",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 159,
             "tickCount": 9728,
             "type": "paint"
@@ -5618,12 +5624,6 @@
                 "y": 432
             },
             "type": "mouseMove"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "ESCAPE",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "button": "none",

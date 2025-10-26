@@ -676,15 +676,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 581309,
-            "tickCount": 6100,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "SPACE",
             "mods": "num",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 581309,
+            "tickCount": 6100,
+            "type": "paint"
         },
         {
             "randomState": 581309,
@@ -701,6 +701,12 @@
             "key": "SPACE",
             "mods": "num",
             "type": "keyPress"
+        },
+        {
+            "isAutoRepeat": false,
+            "key": "SPACE",
+            "mods": "num",
+            "type": "keyRelease"
         },
         {
             "randomState": 581309,
@@ -746,12 +752,6 @@
             "randomState": 241835,
             "tickCount": 7200,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "SPACE",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "randomState": 571176,
@@ -927,15 +927,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 820526,
-            "tickCount": 10400,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "SPACE",
             "mods": "num",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 820526,
+            "tickCount": 10400,
+            "type": "paint"
         },
         {
             "randomState": 820526,
@@ -957,6 +957,12 @@
             "key": "SPACE",
             "mods": "num",
             "type": "keyPress"
+        },
+        {
+            "isAutoRepeat": false,
+            "key": "SPACE",
+            "mods": "num",
+            "type": "keyRelease"
         },
         {
             "randomState": 820526,
@@ -1002,12 +1008,6 @@
             "randomState": 456752,
             "tickCount": 11600,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "SPACE",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "randomState": 456752,

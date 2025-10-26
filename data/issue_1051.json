@@ -1556,6 +1556,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "X",
+            "mods": "0",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 490,
             "tickCount": 2760,
             "type": "paint"
@@ -1599,12 +1605,6 @@
             "randomState": 508,
             "tickCount": 2880,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "X",
-            "mods": "0",
-            "type": "keyRelease"
         },
         {
             "randomState": 511,
@@ -2401,6 +2401,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "X",
+            "mods": "0",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 953,
             "tickCount": 5115,
             "type": "paint"
@@ -2464,12 +2470,6 @@
             "randomState": 996,
             "tickCount": 5295,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "X",
-            "mods": "0",
-            "type": "keyRelease"
         },
         {
             "randomState": 996,
@@ -2698,6 +2698,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "X",
+            "mods": "0",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 1106,
             "tickCount": 5970,
             "type": "paint"
@@ -2821,12 +2827,6 @@
             "randomState": 1212,
             "tickCount": 6330,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "X",
-            "mods": "0",
-            "type": "keyRelease"
         },
         {
             "randomState": 1212,
@@ -2985,6 +2985,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "X",
+            "mods": "0",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 1282,
             "tickCount": 6795,
             "type": "paint"
@@ -3063,12 +3069,6 @@
             "randomState": 1325,
             "tickCount": 7020,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "X",
-            "mods": "0",
-            "type": "keyRelease"
         },
         {
             "isAutoRepeat": false,

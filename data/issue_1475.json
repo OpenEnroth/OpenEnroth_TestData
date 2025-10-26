@@ -828,6 +828,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "R",
+            "mods": "0",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 1,
             "tickCount": 700,
             "type": "paint"
@@ -841,12 +847,6 @@
                 "y": 278
             },
             "type": "mouseMove"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "R",
-            "mods": "0",
-            "type": "keyRelease"
         },
         {
             "button": "none",
@@ -1025,15 +1025,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 1,
-            "tickCount": 2200,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "ESCAPE",
             "mods": "0",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 1,
+            "tickCount": 2200,
+            "type": "paint"
         },
         {
             "randomState": 1,

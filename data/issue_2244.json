@@ -1250,6 +1250,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "R",
+            "mods": "shift|ctrl|num",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 1017609,
             "tickCount": 15700,
             "type": "paint"
@@ -1280,12 +1286,6 @@
             "randomState": 803150,
             "tickCount": 16000,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "R",
-            "mods": "shift|ctrl|num",
-            "type": "keyRelease"
         },
         {
             "isAutoRepeat": false,

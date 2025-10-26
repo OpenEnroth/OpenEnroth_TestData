@@ -301,6 +301,12 @@
             "type": "mouseMove"
         },
         {
+            "isAutoRepeat": false,
+            "key": "RETURN",
+            "mods": "num",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 89,
             "tickCount": 750,
             "type": "paint"
@@ -319,12 +325,6 @@
             "randomState": 89,
             "tickCount": 800,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "RETURN",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "button": "none",

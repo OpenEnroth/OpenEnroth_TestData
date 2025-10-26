@@ -8433,6 +8433,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "SPACE",
+            "mods": "num",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 142,
             "tickCount": 10576,
             "type": "paint"
@@ -8441,12 +8447,6 @@
             "randomState": 142,
             "tickCount": 10592,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "SPACE",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "randomState": 142,

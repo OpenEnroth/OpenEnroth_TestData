@@ -786,15 +786,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 61,
-            "tickCount": 1200,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "DELETE",
             "mods": "num",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 61,
+            "tickCount": 1200,
+            "type": "paint"
         },
         {
             "randomState": 63,
@@ -808,6 +808,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "DELETE",
+            "mods": "num",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 63,
             "tickCount": 1400,
             "type": "paint"
@@ -816,24 +822,18 @@
             "isAutoRepeat": false,
             "key": "DELETE",
             "mods": "num",
-            "type": "keyRelease"
+            "type": "keyPress"
         },
         {
             "isAutoRepeat": false,
             "key": "DELETE",
             "mods": "num",
-            "type": "keyPress"
+            "type": "keyRelease"
         },
         {
             "randomState": 82,
             "tickCount": 1500,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "DELETE",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "randomState": 82,
@@ -847,15 +847,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 82,
-            "tickCount": 1700,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "DELETE",
             "mods": "num",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 82,
+            "tickCount": 1700,
+            "type": "paint"
         },
         {
             "isAutoRepeat": false,
@@ -875,15 +875,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 86,
-            "tickCount": 1900,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "DELETE",
             "mods": "num",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 86,
+            "tickCount": 1900,
+            "type": "paint"
         },
         {
             "randomState": 88,
