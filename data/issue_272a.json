@@ -2909,6 +2909,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "H",
+            "mods": "num",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 41,
             "tickCount": 4176,
             "type": "paint"
@@ -2937,12 +2943,6 @@
             "randomState": 41,
             "tickCount": 4256,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "H",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "randomState": 41,

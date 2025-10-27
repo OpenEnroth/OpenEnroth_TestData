@@ -843,15 +843,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 7,
-            "tickCount": 550,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "SPACE",
             "mods": "0",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 7,
+            "tickCount": 550,
+            "type": "paint"
         },
         {
             "randomState": 7,
@@ -2345,6 +2345,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "ESCAPE",
+            "mods": "0",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 7,
             "tickCount": 2350,
             "type": "paint"
@@ -2353,12 +2359,6 @@
             "randomState": 7,
             "tickCount": 2400,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "ESCAPE",
-            "mods": "0",
-            "type": "keyRelease"
         },
         {
             "randomState": 7,
@@ -2387,6 +2387,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "ESCAPE",
+            "mods": "0",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 7,
             "tickCount": 2650,
             "type": "paint"
@@ -2400,12 +2406,6 @@
             "randomState": 7,
             "tickCount": 2750,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "ESCAPE",
-            "mods": "0",
-            "type": "keyRelease"
         },
         {
             "randomState": 7,
@@ -2489,6 +2489,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "R",
+            "mods": "0",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 97,
             "tickCount": 3550,
             "type": "paint"
@@ -2497,12 +2503,6 @@
             "randomState": 97,
             "tickCount": 3600,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "R",
-            "mods": "0",
-            "type": "keyRelease"
         },
         {
             "randomState": 97,
@@ -2546,6 +2546,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "R",
+            "mods": "0",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 98,
             "tickCount": 4000,
             "type": "paint"
@@ -2554,12 +2560,6 @@
             "randomState": 98,
             "tickCount": 4050,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "R",
-            "mods": "0",
-            "type": "keyRelease"
         },
         {
             "randomState": 98,

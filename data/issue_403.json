@@ -1355,18 +1355,6 @@
             "type": "paint"
         },
         {
-            "isAutoRepeat": false,
-            "key": "A",
-            "mods": "num",
-            "type": "keyRelease"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "A",
-            "mods": "num",
-            "type": "keyPress"
-        },
-        {
             "randomState": 652,
             "tickCount": 10500,
             "type": "paint"

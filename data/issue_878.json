@@ -4865,6 +4865,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "RETURN",
+            "mods": "num",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 21,
             "tickCount": 3344,
             "type": "paint"
@@ -4888,12 +4894,6 @@
             "randomState": 21,
             "tickCount": 3408,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "RETURN",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "randomState": 21,
@@ -5062,6 +5062,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "ESCAPE",
+            "mods": "num",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 21,
             "tickCount": 3936,
             "type": "paint"
@@ -5090,12 +5096,6 @@
             "randomState": 24,
             "tickCount": 4016,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "ESCAPE",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "randomState": 24,

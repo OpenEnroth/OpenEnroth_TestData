@@ -833,6 +833,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "RETURN",
+            "mods": "0",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 1,
             "tickCount": 700,
             "type": "paint"
@@ -841,12 +847,6 @@
             "randomState": 1,
             "tickCount": 800,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "RETURN",
-            "mods": "0",
-            "type": "keyRelease"
         },
         {
             "randomState": 1,
@@ -880,15 +880,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 3,
-            "tickCount": 1400,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "SPACE",
             "mods": "0",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 3,
+            "tickCount": 1400,
+            "type": "paint"
         },
         {
             "randomState": 3,
@@ -970,6 +970,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "SPACE",
+            "mods": "0",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 13,
             "tickCount": 2000,
             "type": "paint"
@@ -978,13 +984,13 @@
             "isAutoRepeat": false,
             "key": "SPACE",
             "mods": "0",
-            "type": "keyRelease"
+            "type": "keyPress"
         },
         {
             "isAutoRepeat": false,
             "key": "SPACE",
             "mods": "0",
-            "type": "keyPress"
+            "type": "keyRelease"
         },
         {
             "randomState": 15,
@@ -1030,12 +1036,6 @@
             "randomState": 259,
             "tickCount": 2900,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "SPACE",
-            "mods": "0",
-            "type": "keyRelease"
         },
         {
             "isAutoRepeat": false,
@@ -1150,6 +1150,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "SPACE",
+            "mods": "0",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 399,
             "tickCount": 3200,
             "type": "paint"
@@ -1193,12 +1199,6 @@
             "randomState": 399,
             "tickCount": 4000,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "SPACE",
-            "mods": "0",
-            "type": "keyRelease"
         },
         {
             "isAutoRepeat": false,

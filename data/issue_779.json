@@ -4657,6 +4657,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "ESCAPE",
+            "mods": "num",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 1,
             "tickCount": 2064,
             "type": "paint"
@@ -4695,12 +4701,6 @@
             "randomState": 1,
             "tickCount": 2176,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "ESCAPE",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "button": "none",

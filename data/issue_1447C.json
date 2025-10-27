@@ -291,6 +291,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "RETURN",
+            "mods": "num",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 61,
             "tickCount": 600,
             "type": "paint"
@@ -299,12 +305,6 @@
             "randomState": 61,
             "tickCount": 650,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "RETURN",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "randomState": 61,

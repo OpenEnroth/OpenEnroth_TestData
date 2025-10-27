@@ -808,15 +808,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 595404,
-            "tickCount": 4500,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "X",
             "mods": "num",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 595404,
+            "tickCount": 4500,
+            "type": "paint"
         },
         {
             "randomState": 369898,
@@ -3882,18 +3882,6 @@
             "randomState": 742403,
             "tickCount": 47800,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "UP",
-            "mods": "num",
-            "type": "keyRelease"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "UP",
-            "mods": "num",
-            "type": "keyPress"
         },
         {
             "randomState": 636821,

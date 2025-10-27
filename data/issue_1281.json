@@ -823,15 +823,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 949791,
-            "tickCount": 500,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "SPACE",
             "mods": "0",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 949791,
+            "tickCount": 500,
+            "type": "paint"
         },
         {
             "randomState": 949791,
@@ -862,15 +862,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 442591,
-            "tickCount": 800,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "SPACE",
             "mods": "0",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 442591,
+            "tickCount": 800,
+            "type": "paint"
         },
         {
             "type": "windowDeactivate"

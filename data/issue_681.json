@@ -772,6 +772,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "X",
+            "mods": "num",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 27,
             "tickCount": 1300,
             "type": "paint"
@@ -785,12 +791,6 @@
             "randomState": 42,
             "tickCount": 1400,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "X",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "randomState": 42,

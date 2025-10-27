@@ -8857,6 +8857,12 @@
             "type": "mouseMove"
         },
         {
+            "isAutoRepeat": false,
+            "key": "ESCAPE",
+            "mods": "num",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 39,
             "tickCount": 2416,
             "type": "paint"
@@ -9810,12 +9816,6 @@
                 "y": 276
             },
             "type": "mouseMove"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "ESCAPE",
-            "mods": "num",
-            "type": "keyRelease"
         },
         {
             "randomState": 39,

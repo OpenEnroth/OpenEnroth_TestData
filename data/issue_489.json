@@ -412,6 +412,12 @@
             "type": "keyPress"
         },
         {
+            "isAutoRepeat": false,
+            "key": "C",
+            "mods": "0",
+            "type": "keyRelease"
+        },
+        {
             "randomState": 94,
             "tickCount": 576,
             "type": "paint"
@@ -430,12 +436,6 @@
             "randomState": 94,
             "tickCount": 624,
             "type": "paint"
-        },
-        {
-            "isAutoRepeat": false,
-            "key": "C",
-            "mods": "0",
-            "type": "keyRelease"
         },
         {
             "randomState": 94,

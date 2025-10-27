@@ -1048,15 +1048,15 @@
             "type": "keyPress"
         },
         {
-            "randomState": 19,
-            "tickCount": 6300,
-            "type": "paint"
-        },
-        {
             "isAutoRepeat": false,
             "key": "ESCAPE",
             "mods": "0",
             "type": "keyRelease"
+        },
+        {
+            "randomState": 19,
+            "tickCount": 6300,
+            "type": "paint"
         },
         {
             "randomState": 25,
